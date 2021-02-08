@@ -14,9 +14,15 @@
       {
         "@type": "DataDownload",
         "name": "ENM_public_data.zip",
-        "contentURL": "https://zenodo.org/record/4146981/files/ENM_public_data.zip?download=1"
+        "contentURL": "https://zenodo.org/record/4146981/files/ENM_public_data.zip?download=1",
+        "encodingFormat": "application/zip"
       }
-    ]
+    ],
+    "creator": {
+      "@type": "Organization",
+      "name": "NanoSolveIT",
+      "url": "https://www.nanosolveit.eu/"
+    }
   }
 </script>
 * License: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
@@ -37,9 +43,15 @@
       {
         "@type": "DataDownload",
         "name": "nanoreg_nrfiles.sql.xz",
-        "contentURL": "https://zenodo.org/record/3467016/files/nanoreg_nrfiles.sql.xz?download=1"
+        "contentURL": "https://zenodo.org/record/3467016/files/nanoreg_nrfiles.sql.xz?download=1",
+        "encodingFormat": "application/x-xz"
       }
-    ]
+    ],
+    "creator": {
+      "@type": "Organization",
+      "name": "NANoREG",
+      "url": "https://cordis.europa.eu/project/id/310584"
+    }
   }
 </script>
 * License: [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
