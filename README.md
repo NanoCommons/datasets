@@ -29,6 +29,7 @@
 </script>
 * Date: 2020-07-22
 * License: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
+* Project: [NanoSolveIT](https://www.nanosolveit.eu/)
 * URL: [https://zenodo.org/record/4146981](https://zenodo.org/record/4146981)
 * Data Download: [ENM_public_data.zip](https://zenodo.org/record/4146981/files/ENM_public_data.zip?download=1)
 
@@ -61,6 +62,7 @@
 </script>
 * Date: 2019-06-09
 * License: [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+* Project: [NANoREG](https://cordis.europa.eu/project/id/310584)
 * URL: [https://doi.org/10.5281/zenodo.3467015](https://doi.org/10.5281/zenodo.3467015)
 * Data Download: [nanoreg_nrfiles.sql.xz
 ](https://zenodo.org/record/3467016/files/nanoreg_nrfiles.sql.xz?download=1)
