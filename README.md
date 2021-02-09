@@ -64,5 +64,4 @@
 * License: [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 * Project: [NANoREG](https://cordis.europa.eu/project/id/310584)
 * URL: [https://doi.org/10.5281/zenodo.3467015](https://doi.org/10.5281/zenodo.3467015)
-* Data Download: [nanoreg_nrfiles.sql.xz
-](https://zenodo.org/record/3467016/files/nanoreg_nrfiles.sql.xz?download=1)
+* Data Download: [nanoreg_nrfiles.sql.xz](https://zenodo.org/record/3467016/files/nanoreg_nrfiles.sql.xz?download=1)
