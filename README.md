@@ -65,3 +65,36 @@
 * Project: [NANoREG](https://cordis.europa.eu/project/id/310584)
 * URL: [https://doi.org/10.5281/zenodo.3467015](https://doi.org/10.5281/zenodo.3467015)
 * Data Download: [nanoreg_nrfiles.sql.xz](https://zenodo.org/record/3467016/files/nanoreg_nrfiles.sql.xz?download=1)
+
+## All NanoPUZZLES ISA-TAB-Nano datasets
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "identifier": "10.5281/zenodo.35493",
+    "name": "All NanoPUZZLES ISA-TAB-Nano datasets",
+    "description": "This file is a ZIP archive which contains ALL publicly released ISA-TAB-Nano datasets developed within the NanoPUZZLES EU project [http://www.nanopuzzles.eu]. The (meta)data in these datasets were extracted from literature references.",
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "keywords": "nanomaterials, NanoPuzzles, ISA-Tab",
+    "url": "http://doi.org/10.5281/zenodo.35493",
+    "distribution": [
+      {
+        "@type": "DataDownload",
+        "name": "all.NanoPUZZLES.ISA-TAB-Nano.ds.zip",
+        "contentURL": "https://zenodo.org/record/35493/files/all.NanoPUZZLES.ISA-TAB-Nano.ds.zip?download=1",
+        "encodingFormat": "application/zip"
+      }
+    ],
+    "creator": {
+      "@type": "Organization",
+      "name": "NanoPUZZLES",
+      "url": "https://cordis.europa.eu/project/id/309837"
+    },
+    "datePublished": "2015-12-18"
+  }
+</script>
+* Date: 2015-12-18
+* License: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
+* Project: [NanoPUZZLES](https://cordis.europa.eu/project/id/309837)
+* URL: [http://doi.org/10.5281/zenodo.35493](http://doi.org/10.5281/zenodo.35493)
+* Data Download: [all.NanoPUZZLES.ISA-TAB-Nano.ds.zip](https://zenodo.org/record/35493/files/all.NanoPUZZLES.ISA-TAB-Nano.ds.zip?download=1)
