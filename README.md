@@ -33,6 +33,40 @@
 * URL: [https://zenodo.org/record/4146981](https://zenodo.org/record/4146981)
 * Data Download: [ENM_public_data.zip](https://zenodo.org/record/4146981/files/ENM_public_data.zip?download=1)
 
+## NanoWiki 6
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "identifier": "10.6084/m9.figshare.11897205.v1",
+    "name": "NanoWiki 6",
+    "description": "Data collection manually extracted from literature",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "keywords": "nanosafety, NanoCommons, nanotechnology, literature",
+    "url": "https://doi.org/10.6084/m9.figshare.11897205.v1",
+    "distribution": [
+      {
+        "@type": "DataDownload",
+        "name": "nanowiki.cczero.6.rdf.gz",
+        "contentURL": "https://ndownloader.figshare.com/files/21818331",
+        "encodingFormat": "application/x-gzip"
+      }
+    ],
+    "creator": {
+      "@type": "Organization",
+      "name": "NanoCommons",
+      "url": "https://www.nanocommons.eu/"
+    },
+    "datePublished": "2020-02-25"
+  }
+</script>
+* Date: 2020-02-25
+* License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+* Project: [NanoCommons](https://www.nanocommons.eu/)
+* URL: [https://doi.org/10.6084/m9.figshare.11897205.v1](https://doi.org/10.6084/m9.figshare.11897205.v1)
+* Data Download: [nanowiki.cczero.6.rdf.gz](https://ndownloader.figshare.com/files/21818331)
+
+
 ## NANoREG - eNanoMapper database
 <script type="application/ld+json">
   {
