@@ -5,6 +5,7 @@
   {
     "@context": "https://schema.org/",
     "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": [ "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/0.3-RELEASE-2019_06_14/" ],
     "identifier": "10.5281/zenodo.4146981",
     "name": "Toxicogenomic assessment of engineered nanomaterials",
     "description": "Manually curated transcriptomics data collection for toxicogenomic assessment of engineered nanomaterials",
@@ -38,6 +39,7 @@
   {
     "@context": "https://schema.org/",
     "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": [ "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/0.3-RELEASE-2019_06_14/" ],
     "identifier": "10.6084/m9.figshare.11897205.v1",
     "name": "NanoWiki 6",
     "description": "Data collection manually extracted from literature",
@@ -72,6 +74,7 @@
   {
     "@context": "https://schema.org/",
     "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": [ "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/0.3-RELEASE-2019_06_14/" ],
     "identifier": "10.5281/zenodo.3467015",
     "name": "NANoREG - eNanoMapper database",
     "description": "In NANoREG over 85 institutional partners from EU member states, associated states, the Republic of Korea and Brazil collaborated in developing reliable, reproducible and relevant methods for testing and assessing the effects of nanomaterials on human health and environment in a regulatory context.",
@@ -105,6 +108,7 @@
   {
     "@context": "https://schema.org/",
     "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": [ "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/0.3-RELEASE-2019_06_14/" ],
     "identifier": "10.5281/zenodo.35493",
     "name": "All NanoPUZZLES ISA-TAB-Nano datasets",
     "description": "This file is a ZIP archive which contains ALL publicly released ISA-TAB-Nano datasets developed within the NanoPUZZLES EU project [http://www.nanopuzzles.eu]. The (meta)data in these datasets were extracted from literature references.",
