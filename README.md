@@ -136,3 +136,37 @@
 * Project: [NanoPUZZLES](https://cordis.europa.eu/project/id/309837)
 * URL: [http://doi.org/10.5281/zenodo.35493](http://doi.org/10.5281/zenodo.35493)
 * Data Download: [all.NanoPUZZLES.ISA-TAB-Nano.ds.zip](https://zenodo.org/record/35493/files/all.NanoPUZZLES.ISA-TAB-Nano.ds.zip?download=1)
+
+## NanoPUZZLES ISA-TAB-Nano dataset: Data extracted from NanoCare project final scientific report
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/0.3-RELEASE-2019_06_14/" },
+    "identifier": "10.6084/m9.figshare.2056095.v1",
+    "name": "NanoPUZZLES ISA-TAB-Nano dataset: Data extracted from NanoCare project final scientific report",
+    "description": "This file is a ZIP archive which contains three different copies of an ISA-TAB-Nano dataset developed within the NanoPUZZLES EU project (http://www.nanopuzzles.eu). The (meta)data in this dataset were primarily extracted from the following reference, with additional references consulted as indicated in the Investigation file: Data extracted from NanoCare project final scientific report: http://www.nanopartikel.info/files/projekte/NanoCare/NanoCare_Final_Report.pdf (last accessed 4th of June 2015)",
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "keywords": "nanomaterials, NanoPuzzles, ISA-Tab, NanoCare",
+    "url": "https://doi.org/10.6084/m9.figshare.2056095.v1",
+    "distribution": [
+      {
+        "@type": "DataDownload",
+        "name": "NanoCare_Final_Report_all_copies.zip",
+        "contentURL": "https://ndownloader.figshare.com/files/3631935",
+        "encodingFormat": "application/zip"
+      }
+    ],
+    "creator": {
+      "@type": "Organization",
+      "name": "NanoPUZZLES",
+      "url": "https://cordis.europa.eu/project/id/309837"
+    },
+    "datePublished": "2015-12-18"
+  }
+</script>
+* Date: 2015-12-18
+* License: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
+* Project: [NanoPUZZLES](https://cordis.europa.eu/project/id/309837)
+* URL: [http://doi.org/10.6084/m9.figshare.2056095.v13](http://doi.org/10.6084/m9.figshare.2056095.v1)
+* Data Download: [NanoCare_Final_Report_all_copies.zip](https://ndownloader.figshare.com/files/3631935)
