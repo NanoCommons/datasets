@@ -162,10 +162,6 @@
       "name": "NanoPUZZLES",
       "url": "https://cordis.europa.eu/project/id/309837"
     },
-    "creator": {
-      "@type": "Organization",
-      "name": "NanoCare"
-    },
     "datePublished": "2015-12-18"
   }
 </script>
