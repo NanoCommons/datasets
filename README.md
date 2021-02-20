@@ -111,7 +111,7 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * Project: [NANoREG](https://cordis.europa.eu/project/id/310584)
 * URL: [https://doi.org/10.5281/zenodo.3467015](https://doi.org/10.5281/zenodo.3467015)
 * Data Download: [nanoreg_nrfiles.sql.xz](https://zenodo.org/record/3467016/files/nanoreg_nrfiles.sql.xz?download=1)
-* Interactive data access: [FP7 NANoREG - eNanoMapper](https://search.data.enanomapper.net/projects/nanoreg/)
+* Interactive data access: [FP7 NANoREG - eNanoMapper](https://search.data.enanomapper.net/projects/nanoreg/), [EUON](https://euon.echa.europa.eu/enanomapper)
 
 ## All NanoPUZZLES ISA-TAB-Nano datasets
 <script type="application/ld+json">
