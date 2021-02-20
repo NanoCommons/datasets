@@ -1,4 +1,11 @@
-# Overview of datasets released by NanoSafety Cluster projects
+# Overview of open datasets released by NanoSafety Cluster projects
+
+This list provides an overview of archived datasets with an open license. Each one of them
+can be cited with [DataCite](https://citation.crosscite.org/) and various datasets are not
+only downloaded from the archives but can also be interactively explored via databases.
+
+Additional datasets and databases that provide interactive access to these datasets can
+be reported [here](https://github.com/NanoCommons/datasets/issues).
 
 ## Manually curated transcriptomics data collection for toxicogenomic assessment of engineered nanomaterials
 <script type="application/ld+json">
