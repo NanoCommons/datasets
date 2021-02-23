@@ -75,8 +75,7 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * Project: [NanoCommons](https://www.nanocommons.eu/)
 * URL: [https://doi.org/10.6084/m9.figshare.11897205.v1](https://doi.org/10.6084/m9.figshare.11897205.v1)
 * Data Download: [nanowiki.cczero.6.rdf.gz](https://ndownloader.figshare.com/files/21818331)
-* Interactive data access: [eNanoMapper](https://search.data.enanomapper.net/projects/enanomapper/)
-
+* Interactive data access: [eNanoMapper](https://search.data.enanomapper.net/projects/enanomapper/), [NanoCommons Knowledge Base](https://ssl.biomax.de/nanocommons/cgi/login_bioxm_portal.cgi)
 
 ## NANoREG - eNanoMapper database
 <script type="application/ld+json">
