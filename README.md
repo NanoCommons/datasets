@@ -7,6 +7,39 @@ only downloaded from the archives but can also be interactively explored via dat
 Additional datasets and databases that provide interactive access to these datasets can
 be reported [here](https://github.com/NanoCommons/datasets/issues).
 
+## NanoReg2 - eNanoMapper database
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/0.4-DRAFT" },
+    "identifier": "10.5281/zenodo.4713745",
+    "name": "NanoReg2 - eNanoMapper database",
+    "description": "H2020 NanoReg2 project data SQL dump for AMBIT chemical substance data management software.",
+    "license": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "keywords": "toxicogenomics, trancsriptomics, nanosafety, ENM",
+    "url": "https://zenodo.org/record/4713745",
+    "distribution": [
+      {
+        "@type": "DataDownload",
+        "name": "nanoreg2.sql.xz",
+        "contentURL": "https://zenodo.org/record/4713745/files/nanoreg2.sql.xz?download=1",
+        "encodingFormat": "application/zip"
+      }
+    ],
+    "creator": {
+      "@type": "Organization",
+      "name": "NanoReg2"
+    },
+    "datePublished": "2021-04-23"
+  }
+</script>
+* Date: 2021-04-23
+* License: [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
+* Project: NanoReg2
+* URL: [https://zenodo.org/record/4713745](https://zenodo.org/record/4713745)
+* Data Download: [nanoreg2.sql.xz](https://zenodo.org/record/4713745/files/nanoreg2.sql.xz?download=1)
+
 ## Manually curated transcriptomics data collection for toxicogenomic assessment of engineered nanomaterials
 <script type="application/ld+json">
   {
