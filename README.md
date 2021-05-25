@@ -39,6 +39,7 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * Project: NanoReg2
 * URL: [https://zenodo.org/record/4713745](https://zenodo.org/record/4713745)
 * Data Download: [nanoreg2.sql.xz](https://zenodo.org/record/4713745/files/nanoreg2.sql.xz?download=1)
+* Interactive data access: [eNanoMapper](https://search.data.enanomapper.net/projects/nanoreg2/)
 
 ## Manually curated transcriptomics data collection for toxicogenomic assessment of engineered nanomaterials
 <script type="application/ld+json">
