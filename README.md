@@ -1,5 +1,23 @@
 # Overview of open datasets released by NanoSafety Cluster projects
 
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "DataCatalog",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/DataCatalog/0.3-RELEASE/" },
+    "name": "NanoCommons Overview of open datasets released by NanoSafety Cluster projects",
+    "description": "An overview of open-licensed data sets in the field of nanosafety.",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "keywords": "nanosafety, open data, data set",
+    "url": "https://nanocommons.github.io/datasets/",
+    "provider": {
+      "@type": "Organization",
+      "name": "NanoCommons",
+      "url": "https://www.nanocommons.eu/"
+    }
+  }
+</script>
+
 This list provides an overview of archived datasets with an open license. Each one of them
 can be cited with [DataCite](https://citation.crosscite.org/) and various datasets are not
 only downloaded from the archives but can also be interactively explored via databases.
