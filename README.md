@@ -25,6 +25,35 @@ only downloaded from the archives but can also be interactively explored via dat
 Additional datasets and databases that provide interactive access to these datasets can
 be reported [here](https://github.com/NanoCommons/datasets/issues).
 
+## BAM reference data: XPS raw data of Al-coated titania nanoparticles (JRCNM62001a and JRCNM62002a)
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/0.4-DRAFT" },
+    "identifier": "10.5281/zenodo.4986068",
+    "name": "BAM reference data: XPS raw data of Al-coated titania nanoparticles (JRCNM62001a and JRCNM62002a)",
+    "description": "Data linked to Radnik, J. Kersting, R., Hagenhoff, B., Bennet, F., Ciornii, D.; Nymark, P., Grafström R. and Hodoroaba, V.-D. Nanomaterials 2021, 11, 639. https://doi.org/10.3390/nano11030639.",
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "url": "https://zenodo.org/record/4986068",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "NanoSolveIT"
+      },
+      {
+        "@type": "Organization",
+        "name": "NANORIGO"
+      },
+    ],
+    "datePublished": "2021-06-18"
+  }
+</script>
+* Date: 2021-06-18
+* License: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
+* Project: NanoSolveIT, NANORIGO
+* URL: [https://zenodo.org/record/4986068](https://zenodo.org/record/4986068)
+
 ## NanoReg2 - eNanoMapper database
 <script type="application/ld+json">
   {
