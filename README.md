@@ -44,7 +44,7 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
       {
         "@type": "Organization",
         "name": "NANORIGO"
-      },
+      }
     ],
     "datePublished": "2021-06-18"
   }
