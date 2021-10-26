@@ -94,6 +94,8 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * Data Download: [nanoreg2.sql.xz](https://zenodo.org/record/4713745/files/nanoreg2.sql.xz?download=1)
 * Interactive data access: [eNanoMapper](https://search.data.enanomapper.net/projects/nanoreg2/)
 
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.4146981"></div>
+
 ## Manually curated transcriptomics data collection for toxicogenomic assessment of engineered nanomaterials
 <script type="application/ld+json">
   {
@@ -128,6 +130,8 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * URL: [https://zenodo.org/record/4146981](https://zenodo.org/record/4146981)
 * Data Download: [ENM_public_data.zip](https://zenodo.org/record/4146981/files/ENM_public_data.zip?download=1)
 * Interactive data access: [NanoPharos Datasets' Query](https://db.nanopharos.eu/Queries/Datasets.zul)
+
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.6084/m9.figshare.11897205.v1"></div>
 
 ## NanoWiki 6
 <script type="application/ld+json">
@@ -164,6 +168,8 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * Data Download: [nanowiki.cczero.6.rdf.gz](https://ndownloader.figshare.com/files/21818331)
 * Interactive data access: [eNanoMapper](https://search.data.enanomapper.net/projects/enanomapper/), [NanoCommons Knowledge Base](https://ssl.biomax.de/nanocommons/cgi/login_bioxm_portal.cgi)
 
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.3467015"></div>
+
 ## NANoREG - eNanoMapper database
 <script type="application/ld+json">
   {
@@ -199,6 +205,8 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * Data Download: [nanoreg_nrfiles.sql.xz](https://zenodo.org/record/3467016/files/nanoreg_nrfiles.sql.xz?download=1)
 * Interactive data access: [FP7 NANoREG - eNanoMapper](https://search.data.enanomapper.net/projects/nanoreg/), [EUON](https://euon.echa.europa.eu/enanomapper)
 
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.35493"></div>
+
 ## All NanoPUZZLES ISA-TAB-Nano datasets
 <script type="application/ld+json">
   {
@@ -232,6 +240,8 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * Project: [NanoPUZZLES](https://cordis.europa.eu/project/id/309837)
 * URL: [http://doi.org/10.5281/zenodo.35493](http://doi.org/10.5281/zenodo.35493)
 * Data Download: [all.NanoPUZZLES.ISA-TAB-Nano.ds.zip](https://zenodo.org/record/35493/files/all.NanoPUZZLES.ISA-TAB-Nano.ds.zip?download=1)
+
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.6084/m9.figshare.2056095.v1"></div>
 
 ## NanoPUZZLES ISA-TAB-Nano dataset: Data extracted from NanoCare project final scientific report
 <script type="application/ld+json">
