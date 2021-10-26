@@ -1,5 +1,6 @@
+<img style="float: right; width: 200px" src="https://www.nanocommons.eu/wp-content/uploads/2018/04/NanoCommons-Logo-1.jpg" />
 # Overview of open datasets released by NanoSafety Cluster projects
-
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <script type="application/ld+json">
   {
     "@context": "https://schema.org/",
@@ -25,6 +26,7 @@ only downloaded from the archives but can also be interactively explored via dat
 Additional datasets and databases that provide interactive access to these datasets can
 be reported [here](https://github.com/NanoCommons/datasets/issues).
 
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.4986068"></div>
 ## BAM reference data: XPS raw data of Al-coated titania nanoparticles (JRCNM62001a and JRCNM62002a)
 <script type="application/ld+json">
   {
