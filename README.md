@@ -55,8 +55,9 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 </script>
 * Date: 2021-06-18
 * License: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
-* Project: NanoSolveIT, NANORIGO
+* Project: [NanoSolveIT](https://www.nanosolveit.eu/), NANORIGO
 * URL: [https://zenodo.org/record/4986068](https://zenodo.org/record/4986068)
+* DOI: 10.5281/zenodo.4986068
 
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.4713745"></div>
 
@@ -91,6 +92,7 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * License: [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 * Project: NanoReg2
 * URL: [https://zenodo.org/record/4713745](https://zenodo.org/record/4713745)
+* DOI: 10.5281/zenodo.4713745
 * Data Download: [nanoreg2.sql.xz](https://zenodo.org/record/4713745/files/nanoreg2.sql.xz?download=1)
 * Interactive data access: [eNanoMapper](https://search.data.enanomapper.net/projects/nanoreg2/)
 
@@ -128,6 +130,7 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * License: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
 * Project: [NanoSolveIT](https://www.nanosolveit.eu/)
 * URL: [https://zenodo.org/record/4146981](https://zenodo.org/record/4146981)
+* DOI: 10.5281/zenodo.4146981
 * Data Download: [ENM_public_data.zip](https://zenodo.org/record/4146981/files/ENM_public_data.zip?download=1)
 * Interactive data access: [NanoPharos Datasets' Query](https://db.nanopharos.eu/Queries/Datasets.zul)
 
@@ -165,6 +168,7 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 * Project: [NanoCommons](https://www.nanocommons.eu/)
 * URL: [https://doi.org/10.6084/m9.figshare.11897205.v1](https://doi.org/10.6084/m9.figshare.11897205.v1)
+* DOI: 10.6084/m9.figshare.11897205.v1
 * Data Download: [nanowiki.cczero.6.rdf.gz](https://ndownloader.figshare.com/files/21818331)
 * Interactive data access: [eNanoMapper](https://search.data.enanomapper.net/projects/enanomapper/), [NanoCommons Knowledge Base](https://ssl.biomax.de/nanocommons/cgi/login_bioxm_portal.cgi)
 
@@ -202,6 +206,7 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * License: [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 * Project: [NANoREG](https://cordis.europa.eu/project/id/310584)
 * URL: [https://doi.org/10.5281/zenodo.3467015](https://doi.org/10.5281/zenodo.3467015)
+* DOI: 10.5281/zenodo.3467015
 * Data Download: [nanoreg_nrfiles.sql.xz](https://zenodo.org/record/3467016/files/nanoreg_nrfiles.sql.xz?download=1)
 * Interactive data access: [FP7 NANoREG - eNanoMapper](https://search.data.enanomapper.net/projects/nanoreg/), [EUON](https://euon.echa.europa.eu/enanomapper)
 
@@ -239,6 +244,7 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * License: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
 * Project: [NanoPUZZLES](https://cordis.europa.eu/project/id/309837)
 * URL: [http://doi.org/10.5281/zenodo.35493](http://doi.org/10.5281/zenodo.35493)
+* DOI: 10.5281/zenodo.35493
 * Data Download: [all.NanoPUZZLES.ISA-TAB-Nano.ds.zip](https://zenodo.org/record/35493/files/all.NanoPUZZLES.ISA-TAB-Nano.ds.zip?download=1)
 
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.6084/m9.figshare.2056095.v1"></div>
@@ -275,4 +281,5 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * License: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
 * Project: [NanoPUZZLES](https://cordis.europa.eu/project/id/309837), NanoCare
 * URL: [http://doi.org/10.6084/m9.figshare.2056095.v13](http://doi.org/10.6084/m9.figshare.2056095.v1)
+* DOI: 10.6084/m9.figshare.2056095.v1
 * Data Download: [NanoCare_Final_Report_all_copies.zip](https://ndownloader.figshare.com/files/3631935)
