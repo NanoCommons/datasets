@@ -35,7 +35,7 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
     "name": "BAM reference data: XPS raw data of Al-coated titania nanoparticles (JRCNM62001a and JRCNM62002a)",
     "description": "Data linked to Radnik, J. Kersting, R., Hagenhoff, B., Bennet, F., Ciornii, D.; Nymark, P., Grafström R. and Hodoroaba, V.-D. Nanomaterials 2021, 11, 639. https://doi.org/10.3390/nano11030639.",
     "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
-    "url": "https://zenodo.org/record/4986068",
+    "url": "https://doi.org/10.5281/zenodo.4986068",
     "creator": [
       {
         "@type": "Organization",
@@ -65,7 +65,7 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
     "description": "H2020 NanoReg2 project data SQL dump for AMBIT chemical substance data management software.",
     "license": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
     "keywords": "toxicogenomics, trancsriptomics, nanosafety, ENM",
-    "url": "https://zenodo.org/record/4713745",
+    "url": "https://doi.org/10.5281/zenodo.4713745",
     "distribution": [
       {
         "@type": "DataDownload",
@@ -99,7 +99,7 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
     "description": "Manually curated transcriptomics data collection for toxicogenomic assessment of engineered nanomaterials",
     "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
     "keywords": "toxicogenomics, trancsriptomics, nanosafety, ENM",
-    "url": "https://zenodo.org/record/4146981",
+    "url": "https://doi.org/10.5281/zenodo.4146981",
     "distribution": [
       {
         "@type": "DataDownload",
