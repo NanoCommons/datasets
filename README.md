@@ -27,7 +27,7 @@ only downloaded from the archives but can also be interactively explored via dat
 Additional datasets and databases that provide interactive access to these datasets can
 be reported [here](https://github.com/NanoCommons/datasets/issues).
 
-<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.4986068"></div>
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.5744302"></div>
 
 ## RDF version of the data from Hagar I. Labouta et al. Meta-Analysis of Nanoparticle Cytotoxicity via Data-Mining the Literature. NanoImpact (2019)
 <script type="application/ld+json">
@@ -55,7 +55,7 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * URL: [https://zenodo.org/record/5744302](https://zenodo.org/record/5744302)
 * DOI: 10.5281/zenodo.5744302
 
-<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.5744302"></div>
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.4986068"></div>
 
 ## BAM reference data: XPS raw data of Al-coated titania nanoparticles (JRCNM62001a and JRCNM62002a)
 <script type="application/ld+json">
