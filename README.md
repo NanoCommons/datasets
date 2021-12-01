@@ -29,6 +29,34 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.4986068"></div>
 
+## RDF version of the data from Hagar I. Labouta et al. Meta-Analysis of Nanoparticle Cytotoxicity via Data-Mining the Literature. NanoImpact (2019)
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/0.4-DRAFT" },
+    "identifier": "10.5281/zenodo.5744302",
+    "name": "RDF version of the data from Hagar I. Labouta et al. Meta-Analysis of Nanoparticle Cytotoxicity via Data-Mining the Literature. NanoImpact (2019)",
+    "description": "This is an RDFied version of the dataset published by Hagar I. Labouta et al. Meta-Analysis of Nanoparticle Cytotoxicity via Data-Mining the Literature. NanoImpact (2019). The original dataset publication DOI: https://doi.org/10.1021/acsnano.8b07562 The Original publication authors: Hagar I. Labouta, Nasimeh Asgarian, Kristina Rinker, and David T. Cramb",
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "url": "https://doi.org/10.5281/zenodo.5744302",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "NanoSolveIT"
+      }
+    ],
+    "datePublished": "2021-11-30"
+  }
+</script>
+* Date: 2021-11-30
+* License: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
+* Project: [NanoSolveIT](https://www.nanosolveit.eu/)
+* URL: [https://zenodo.org/record/5744302](https://zenodo.org/record/5744302)
+* DOI: 10.5281/zenodo.5744302
+
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.5744302"></div>
+
 ## BAM reference data: XPS raw data of Al-coated titania nanoparticles (JRCNM62001a and JRCNM62002a)
 <script type="application/ld+json">
   {
