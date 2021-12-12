@@ -27,6 +27,34 @@ only downloaded from the archives but can also be interactively explored via dat
 Additional datasets and databases that provide interactive access to these datasets can
 be reported [here](https://github.com/NanoCommons/datasets/issues).
 
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.5743204"></div>
+
+## RDF version of the data from Choi, JS. et al. Towards a generalized toxicity prediction model for oxide nanomaterials using integrated data from different sources (2018)
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/0.4-DRAFT" },
+    "identifier": "10.5281/zenodo.5743204",
+    "name": "RDF version of the data from Choi, JS. et al. Towards a generalized toxicity prediction model for oxide nanomaterials using integrated data from different sources (2018)",
+    "description": "This is an RDFied version of the dataset published in Choi, JS., Ha, M.K., Trinh, T.X. et al. Towards a generalized toxicity prediction model for oxide nanomaterials using integrated data from different sources. Sci Rep 8, 6110 (2018). The original dataset publication DOI: https://doi.org/10.1038/s41598-018-24483-z. The Original publication authors: Jang-Sik Choi, My Kieu Ha, Tung Xuan Trinh, Tae Hyun Yoon & Hyung-Gi Byun",
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "url": "https://zenodo.org/record/5743204",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "NanoSolveIT"
+      }
+    ],
+    "datePublished": "2021-11-30"
+  }
+</script>
+* Date: 2021-11-30
+* License: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
+* Project: [NanoSolveIT](https://www.nanosolveit.eu/)
+* URL: [https://zenodo.org/record/5743204](https://zenodo.org/record/5743204)
+* DOI: 10.5281/zenodo.5743204
+
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.5743788"></div>
 
 ## RDF version of the data from Anastasios G. Papadiamantis et al. Predicting Cytotoxicity of Metal Oxide Nanoparticles Using Isalos Analytics Platform (2020)
