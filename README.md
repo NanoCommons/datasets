@@ -237,6 +237,33 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * Data Download: [nanoreg2.sql.xz](https://zenodo.org/record/4713745/files/nanoreg2.sql.xz?download=1)
 * Interactive data access: [eNanoMapper](https://search.data.enanomapper.net/projects/nanoreg2/)
 
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.4609840"></div>
+
+## Raw data and metadata of SiO2 NP physicochemical characterisation, in vitro investigations and in silico predictions on protein corona formation
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/0.4-DRAFT" },
+    "identifier": "10.5281/zenodo.4609840",
+    "name": "Raw data and metadata of SiO2 NP physicochemical characterisation, in vitro investigations and in silico predictions on protein corona formation",
+    "description": "Raw data and metadata of SiO2 NP physicochemical characterisation, in vitro investigations and in silico predictions on protein corona formation. Data repository for Hasenkopf I. et al., 2021",
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "url": "https://doi.org/10.5281/zenodo.4609840",
+    "creator": {
+      "@type": "Organization",
+      "name": "NanoCommons",
+      "url": "https://www.nanocommons.eu/"
+    },
+    "datePublished": "2021-03-17"
+  }
+</script>
+* Date: 2021-03-17
+* License: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
+* Project: [NanoCommons](https://www.nanocommons.eu/)
+* URL: [https://zenodo.org/record/4609840](https://zenodo.org/record/4609840)
+* DOI: 10.5281/zenodo.4609840
+
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.4146981"></div>
 
 ## Manually curated transcriptomics data collection for toxicogenomic assessment of engineered nanomaterials
