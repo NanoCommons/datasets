@@ -87,15 +87,15 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.5744003"></div>
 
-## RDF version of the data from Saarimaki et al. Manually curated transcriptomics data collection for toxicogenomic assessment of engineered nanomaterials (Version 1.0.0) [Zebodo Dataset] (2020)
+## RDF version of the data from Saarimaki et al. Manually curated transcriptomics data collection for toxicogenomic assessment of engineered nanomaterials (Version 1.0.0) [Zenodo Dataset] (2020)
 <script type="application/ld+json">
   {
     "@context": "https://schema.org/",
     "@type": "Dataset",
     "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/0.4-DRAFT" },
     "identifier": "10.5281/zenodo.5744003",
-    "name": "RDF version of the data from Saarimaki et al. Manually curated transcriptomics data collection for toxicogenomic assessment of engineered nanomaterials (Version 1.0.0) [Zebodo Dataset] (2020)",
-    "description": "This is an RDFied version of the dataset published by Saarimaki et al. Manually curated transcriptomics data collection for toxicogenomic assessment of engineered nanomaterials (Version 1.0.0) [Zebodo Dataset] (2020). The original dataset publication DOI: http://doi.org/10.5281/zenodo.4146981. The Original publication authors: Saarimaki, Laura Aliisa, Federico, Antonio, Lynch, Iseult, Papadiamantis, Anastasios G., Tsoumanis, Andreas, Melagraki, Georgia, Afantitis, Antreas, Serra, Angela, & Greco, Dario",
+    "name": "RDF version of the data from Saarimaki et al. Manually curated transcriptomics data collection for toxicogenomic assessment of engineered nanomaterials (Version 1.0.0) [Zenodo Dataset] (2020)",
+    "description": "This is an RDFied version of the dataset published by Saarimaki et al. Manually curated transcriptomics data collection for toxicogenomic assessment of engineered nanomaterials (Version 1.0.0) [Zenodo Dataset] (2020). The original dataset publication DOI: http://doi.org/10.5281/zenodo.4146981. The Original publication authors: Saarimaki, Laura Aliisa, Federico, Antonio, Lynch, Iseult, Papadiamantis, Anastasios G., Tsoumanis, Andreas, Melagraki, Georgia, Afantitis, Antreas, Serra, Angela, & Greco, Dario",
     "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
     "url": "https://zenodo.org/record/5744003",
     "creator": [
