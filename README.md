@@ -34,19 +34,22 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
   {
     "@context": "https://schema.org/",
     "@type": "Dataset",
-    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/0.4-DRAFT" },
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.5743204",
     "identifier": "10.5281/zenodo.5743204",
     "name": "RDF version of the data from Choi, JS. et al. Towards a generalized toxicity prediction model for oxide nanomaterials using integrated data from different sources (2018)",
     "description": "This is an RDFied version of the dataset published in Choi, JS., Ha, M.K., Trinh, T.X. et al. Towards a generalized toxicity prediction model for oxide nanomaterials using integrated data from different sources. Sci Rep 8, 6110 (2018). The original dataset publication DOI: https://doi.org/10.1038/s41598-018-24483-z. The Original publication authors: Jang-Sik Choi, My Kieu Ha, Tung Xuan Trinh, Tae Hyun Yoon & Hyung-Gi Byun",
     "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
     "url": "https://zenodo.org/record/5743204",
+    "keywords": "oxide, nanomaterial, toxicity, prediction",
     "creator": [
       {
         "@type": "Organization",
         "name": "NanoSolveIT"
       }
     ],
-    "datePublished": "2021-11-30"
+    "datePublished": "2021-11-30",
+    "citation": { "@type": "CreativeWork", "@id": "https://doi.org/10.1038/s41598-018-24483-z", "name": "Towards a generalized toxicity prediction model for oxide nanomaterials using integrated data from different sources" }
   }
 </script>
 * [Dataset Overview](overview/5743204.md)
@@ -63,19 +66,22 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
   {
     "@context": "https://schema.org/",
     "@type": "Dataset",
-    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/0.4-DRAFT" },
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.5743788",
     "identifier": "10.5281/zenodo.5743788",
     "name": "RDF version of the data from Anastasios G. Papadiamantis et al. Predicting Cytotoxicity of Metal Oxide Nanoparticles Using Isalos Analytics Platform (2020)",
     "description": "This is an RDFied version of the dataset published in Papadiamantis, A.G. et al. Predicting Cytotoxicity of Metal Oxide Nanoparticles Using Isalos Analytics Platform. Nanomaterials 2020, 10, 2017. The original dataset publication DOI: https://doi.org/10.3390/nano10102017. The Original publication authors: Papadiamantis, A.G.; Jänes, J.; Voyiatzis, E.; Sikk, L.; Burk, J.; Burk, P.; Tsoumanis, A.; Ha, M.K.; Yoon, T.H.; Valsami-Jones, E.; Lynch, I.; Melagraki, G.; Tämm, K.; Afantitis, A.",
     "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
     "url": "https://zenodo.org/record/5743788",
+    "keywords": "cytotoxicity, metal oxide, nanoparticle",
     "creator": [
       {
         "@type": "Organization",
         "name": "NanoSolveIT"
       }
     ],
-    "datePublished": "2021-11-30"
+    "datePublished": "2021-11-30",
+    "citation": { "@type": "CreativeWork", "@id": "https://doi.org/10.3390/nano10102017", "name": "Predicting Cytotoxicity of Metal Oxide Nanoparticles Using Isalos Analytics Platform" }
   }
 </script>
 * [Dataset Overview](overview/5743788.md)
@@ -92,7 +98,8 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
   {
     "@context": "https://schema.org/",
     "@type": "Dataset",
-    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/0.4-DRAFT" },
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.5744003",
     "identifier": "10.5281/zenodo.5744003",
     "name": "RDF version of the data from Saarimaki et al. Manually curated transcriptomics data collection for toxicogenomic assessment of engineered nanomaterials (Version 1.0.0) [Zenodo Dataset] (2020)",
     "description": "This is an RDFied version of the dataset published by Saarimaki et al. Manually curated transcriptomics data collection for toxicogenomic assessment of engineered nanomaterials (Version 1.0.0) [Zenodo Dataset] (2020). The original dataset publication DOI: http://doi.org/10.5281/zenodo.4146981. The Original publication authors: Saarimaki, Laura Aliisa, Federico, Antonio, Lynch, Iseult, Papadiamantis, Anastasios G., Tsoumanis, Andreas, Melagraki, Georgia, Afantitis, Antreas, Serra, Angela, & Greco, Dario",
@@ -122,7 +129,8 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
   {
     "@context": "https://schema.org/",
     "@type": "Dataset",
-    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/0.4-DRAFT" },
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.5744082",
     "identifier": "10.5281/zenodo.5744082",
     "name": "RDF version of the data from Anastasios G. et al. Computational enrichment of physicochemical data for the development of a zeta-potential read-across predictive model with Isalos Analytics Platform. NanoImpact (2021)",
     "description": "This is an RDFied version of the dataset published by Anastasios G. et al. Computational enrichment of physicochemical data for the development of a zeta-potential read-across predictive model with Isalos Analytics Platform. NanoImpact (2021). The original dataset publication DOI: https://doi.org/10.1016/j.impact.2021.100308 The Original publication authors: Anastasios G. Papadiamantis, Antreas Afantitis, Andreas Tsoumanis, Eugenia Valsami-Jones, Iseult Lynch, Georgia Melagraki",
@@ -151,7 +159,8 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
   {
     "@context": "https://schema.org/",
     "@type": "Dataset",
-    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/0.4-DRAFT" },
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.5744302",
     "identifier": "10.5281/zenodo.5744302",
     "name": "RDF version of the data from Hagar I. Labouta et al. Meta-Analysis of Nanoparticle Cytotoxicity via Data-Mining the Literature. NanoImpact (2019)",
     "description": "This is an RDFied version of the dataset published by Hagar I. Labouta et al. Meta-Analysis of Nanoparticle Cytotoxicity via Data-Mining the Literature. NanoImpact (2019). The original dataset publication DOI: https://doi.org/10.1021/acsnano.8b07562 The Original publication authors: Hagar I. Labouta, Nasimeh Asgarian, Kristina Rinker, and David T. Cramb",
@@ -180,7 +189,8 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
   {
     "@context": "https://schema.org/",
     "@type": "Dataset",
-    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/0.4-DRAFT" },
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.4986068",
     "identifier": "10.5281/zenodo.4986068",
     "name": "BAM reference data: XPS raw data of Al-coated titania nanoparticles (JRCNM62001a and JRCNM62002a)",
     "description": "Data linked to Radnik, J. Kersting, R., Hagenhoff, B., Bennet, F., Ciornii, D.; Nymark, P., Grafström R. and Hodoroaba, V.-D. Nanomaterials 2021, 11, 639. https://doi.org/10.3390/nano11030639.",
@@ -212,7 +222,8 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
   {
     "@context": "https://schema.org/",
     "@type": "Dataset",
-    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/0.4-DRAFT" },
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.4713745",
     "identifier": "10.5281/zenodo.4713745",
     "name": "NanoReg2 - eNanoMapper database",
     "description": "H2020 NanoReg2 project data SQL dump for AMBIT chemical substance data management software.",
@@ -249,7 +260,8 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
   {
     "@context": "https://schema.org/",
     "@type": "Dataset",
-    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/0.4-DRAFT" },
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.4609840",
     "identifier": "10.5281/zenodo.4609840",
     "name": "Raw data and metadata of SiO2 NP physicochemical characterisation, in vitro investigations and in silico predictions on protein corona formation",
     "description": "Raw data and metadata of SiO2 NP physicochemical characterisation, in vitro investigations and in silico predictions on protein corona formation. Data repository for Hasenkopf I. et al., 2021",
@@ -276,7 +288,8 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
   {
     "@context": "https://schema.org/",
     "@type": "Dataset",
-    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/0.4-DRAFT" },
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.4146981",
     "identifier": "10.5281/zenodo.4146981",
     "name": "Toxicogenomic assessment of engineered nanomaterials",
     "description": "Manually curated transcriptomics data collection for toxicogenomic assessment of engineered nanomaterials",
@@ -314,7 +327,8 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
   {
     "@context": "https://schema.org/",
     "@type": "Dataset",
-    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/0.4-DRAFT" },
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.6084/m9.figshare.11897205.v1",
     "identifier": "10.6084/m9.figshare.11897205.v1",
     "name": "NanoWiki 6",
     "description": "Data collection manually extracted from literature",
@@ -352,7 +366,8 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
   {
     "@context": "https://schema.org/",
     "@type": "Dataset",
-    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/0.4-DRAFT" },
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.3467015",
     "identifier": "10.5281/zenodo.3467015",
     "name": "NANoREG - eNanoMapper database",
     "description": "In NANoREG over 85 institutional partners from EU member states, associated states, the Republic of Korea and Brazil collaborated in developing reliable, reproducible and relevant methods for testing and assessing the effects of nanomaterials on human health and environment in a regulatory context.",
@@ -390,7 +405,8 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
   {
     "@context": "https://schema.org/",
     "@type": "Dataset",
-    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/0.4-DRAFT" },
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.35493",
     "identifier": "10.5281/zenodo.35493",
     "name": "All NanoPUZZLES ISA-TAB-Nano datasets",
     "description": "This file is a ZIP archive which contains ALL publicly released ISA-TAB-Nano datasets developed within the NanoPUZZLES EU project [http://www.nanopuzzles.eu]. The (meta)data in these datasets were extracted from literature references.",
@@ -427,7 +443,8 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
   {
     "@context": "https://schema.org/",
     "@type": "Dataset",
-    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/0.4-DRAFT" },
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.6084/m9.figshare.2056095.v1",
     "identifier": "10.6084/m9.figshare.2056095.v1",
     "name": "NanoPUZZLES ISA-TAB-Nano dataset: Data extracted from NanoCare project final scientific report",
     "description": "This file is a ZIP archive which contains three different copies of an ISA-TAB-Nano dataset developed within the NanoPUZZLES EU project (http://www.nanopuzzles.eu). The (meta)data in this dataset were primarily extracted from the following reference, with additional references consulted as indicated in the Investigation file: Data extracted from NanoCare project final scientific report: http://www.nanopartikel.info/files/projekte/NanoCare/NanoCare_Final_Report.pdf (last accessed 4th of June 2015)",
