@@ -8,7 +8,7 @@
   {
     "@context": "https://schema.org/",
     "@type": "DataCatalog",
-    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/DataCatalog/0.3-RELEASE/" },
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/DataCatalog/0.3-RELEASE-2019_07_01" },
     "name": "NanoCommons Overview of open datasets released by NanoSafety Cluster projects",
     "description": "An overview of open-licensed data sets in the field of nanosafety.",
     "license": "https://creativecommons.org/publicdomain/zero/1.0/",
