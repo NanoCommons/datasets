@@ -283,6 +283,44 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * URL: [https://zenodo.org/record/4609840](https://zenodo.org/record/4609840)
 * DOI: 10.5281/zenodo.4609840
 
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.4421969"></div>
+
+## Status quo in data availability and predictive models of nano-mixture toxicity
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.4421969",
+    "identifier": "10.5281/zenodo.4421969",
+    "name": "Status quo in data availability and predictive models of nano-mixture toxicity",
+    "description": "Supplementary materials for manuscript: Status quo in data availability and predictive models of nano-mixture toxicity. This table contains the list of 183 curated literature used in this study.",
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "keywords": "nanomaterial, mixture",
+    "url": "https://doi.org/10.5281/zenodo.4421969",
+    "distribution": [
+      {
+        "@type": "DataDownload",
+        "name": "Supplementary-materials-Trinh-and-Kim-Nanomaterials-2021.xlsx",
+        "contentURL": "https://zenodo.org/record/4421969/files/Supplementary-materials-Trinh-and-Kim-Nanomaterials-2021.xlsx?download=1",
+        "encodingFormat": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      }
+    ],
+    "creator": {
+      "@type": "Organization",
+      "name": "SABYDOMA",
+      "url": "https://www.sabydoma.eu/"
+    },
+    "datePublished": "2020-07-22"
+  }
+</script>
+* Date: 2020-07-22
+* License: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
+* Project: [SABYDOMA](https://www.sabydoma.eu/)
+* URL: [https://zenodo.org/record/4421969](https://zenodo.org/record/4421969)
+* DOI: 10.5281/zenodo.4421969
+* Data Download: [Supplementary-materials-Trinh-and-Kim-Nanomaterials-2021.xlsx](https://zenodo.org/record/4421969/files/Supplementary-materials-Trinh-and-Kim-Nanomaterials-2021.xlsx?download=1)
+
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.4146981"></div>
 
 ## Manually curated transcriptomics data collection for toxicogenomic assessment of engineered nanomaterials
