@@ -29,6 +29,36 @@ only downloaded from the archives but can also be interactively explored via dat
 Additional datasets and databases that provide interactive access to these datasets can
 be reported [here](https://github.com/NanoCommons/datasets/issues).
 
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.6473305"></div>
+
+## Raw data of multiplex assay on cyto-/chemokine secretion from human monocyte-derived dendritic cells
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.6473305",
+    "identifier": "10.5281/zenodo.6473305",
+    "name": "Raw data of in vitro investigations on immune activation by bare and surface-functionalized SiO2 NP-allergen conjugates using human monocyte-derived dendritic cells as model antigen-presenting cells. Data repository for Punz B. et al., 2022",
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "url": "https://zenodo.org/record/6473305",
+    "keywords": "nanomaterial, chemokines, cytokines, dendritic cells",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "NanoCommons",
+        "url": "https://www.nanocommons.eu/"
+      }
+    ],
+    "datePublished": "2022-04-20"
+  }
+</script>
+* Date: 2022-04-20
+* License: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
+* Project: [NanoCommons](https://www.nanocommons.eu/)
+* URL: [https://zenodo.org/record/6473305](https://zenodo.org/record/6473305)
+* DOI: 10.5281/zenodo.6473305
+
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.5743204"></div>
 
 ## RDF version of the data from Choi, JS. et al. Towards a generalized toxicity prediction model for oxide nanomaterials using integrated data from different sources (2018)
