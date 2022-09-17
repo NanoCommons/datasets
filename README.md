@@ -1,5 +1,7 @@
 <img style="float: right; width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/NanoCommons-Logo-Large_-_White_Circle_01.png" />
 
+[![DOI](https://zenodo.org/badge/337141501.svg)](https://zenodo.org/badge/latestdoi/337141501)
+
 # Overview of open datasets released by NanoSafety Cluster projects
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <script type="application/ld+json">
