@@ -546,6 +546,45 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * Data Download: [nanoreg_nrfiles.sql.xz](https://zenodo.org/record/3467016/files/nanoreg_nrfiles.sql.xz?download=1)
 * Interactive data access: [FP7 NANoREG - eNanoMapper](https://search.data.enanomapper.net/projects/nanoreg/), [EUON](https://euon.echa.europa.eu/enanomapper)
 
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.6084/m9.figshare.7844594.v1"></div>
+
+## Heatmap of the overall HTS database
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.6084/m9.figshare.7844594.v1",
+    "identifier": "10.6084/m9.figshare.7844594.v1",
+    "name": "Heatmap of the overall HTS database",
+    "license": "https://creativecommons.org/share-your-work/public-domain/cc0",
+    "description": "High througput imaging DB of toxicological effect of Manufactured nanomaterials on HepaRGs.",
+    "keywords": "nanomaterials, NanoMILE, cytokines",
+    "url": "https://doi.org/10.6084/m9.figshare.7844594.v1",
+    "distribution": [
+      {
+        "@type": "DataDownload",
+        "name": "Online-only Table2.xlsx",
+        "contentURL": "https://springernature.figshare.com/ndownloader/files/14606336",
+        "encodingFormat": "application/vnd.ms-excel"
+      }
+    ],
+    "creator": {
+      "@type": "Organization",
+      "name": "NanoMILE",
+      "url": "https://cordis.europa.eu/project/id/310451"
+    },
+    "datePublished": "2019-04-18"
+  }
+</script>
+* Date: 2019-04-18
+* License: [CC0](https://creativecommons.org/share-your-work/public-domain/cc0)
+* Project: [NanoMILE](https://cordis.europa.eu/project/id/310451)
+* URL: [https://doi.org/10.6084/m9.figshare.7844594.v1](https://doi.org/10.6084/m9.figshare.7844594.v1)
+* DOI: 10.6084/m9.figshare.7844594.v1
+* Data Download: [Online-only Table2.xlsx](https://springernature.figshare.com/ndownloader/files/14606336)
+
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.35493"></div>
 
 ## All NanoPUZZLES ISA-TAB-Nano datasets
