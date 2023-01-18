@@ -468,6 +468,45 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * DOI: 10.6084/m9.figshare.10071023.v1
 * Data Download: [12989_2019_320_MOESM1_ESM.xlsx](https://springernature.figshare.com/ndownloader/files/18152360)
 
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.6084/m9.figshare.10071032.v1"></div>
+
+## MOESM2 of Role of chemical composition and redox modification of poorly soluble nanomaterials on their ability to enhance allergic airway sensitisation in mice
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.6084/m9.figshare.10071032.v1",
+    "identifier": "10.6084/m9.figshare.10071032.v1",
+    "name": "MOESM2 of Role of chemical composition and redox modification of poorly soluble nanomaterials on their ability to enhance allergic airway sensitisation in mice",
+    "description": " Additional file 2. Cytokines in bronchoalveolar lavage fluid.",
+    "license": "https://springernature.figshare.com/articles/dataset/MOESM1_of_Role_of_chemical_composition_and_redox_modification_of_poorly_soluble_nanomaterials_on_their_ability_to_enhance_allergic_airway_sensitisation_in_mice/10071032",
+    "keywords": "nanomaterials, NanoMILE, cytokines",
+    "url": "https://doi.org/10.6084/m9.figshare.10071032.v1",
+    "distribution": [
+      {
+        "@type": "DataDownload",
+        "name": "12989_2019_320_MOESM2_ESM.xlsx",
+        "contentURL": "https://springernature.figshare.com/ndownloader/files/18152372",
+        "encodingFormat": "application/vnd.ms-excel"
+      }
+    ],
+    "creator": {
+      "@type": "Organization",
+      "name": "NanoMILE",
+      "url": "https://cordis.europa.eu/project/id/310451"
+    },
+    "datePublished": "2019-10-29"
+  }
+</script>
+* Date: 2019-10-29
+* License: CC BY + CC0
+* Project: [NanoMILE](https://cordis.europa.eu/project/id/310451)
+* URL: [https://doi.org/10.6084/m9.figshare.10071032.v1](https://doi.org/10.6084/m9.figshare.10071032.v1)
+* DOI: 10.6084/m9.figshare.10071032.v1
+* Data Download: [12989_2019_320_MOESM2_ESM.xlsx](https://springernature.figshare.com/ndownloader/files/18152372)
+
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.3467015"></div>
 
 ## NANoREG - eNanoMapper database
