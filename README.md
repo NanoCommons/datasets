@@ -29,6 +29,39 @@ only downloaded from the archives but can also be interactively explored via dat
 Additional datasets and databases that provide interactive access to these datasets can
 be reported [here](https://github.com/NanoCommons/datasets/issues).
 
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7602354"></div>
+
+## RDF version of the supplementary data from Shin, Hyun Kil and Seo et al. Meta-analysis of Daphnia magna nanotoxicity experiments in accordance with test guidelines (2018)
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.7602354",
+    "identifier": "10.5281/zenodo.7602354",
+    "name": "RDF version of the supplementary data from Shin, Hyun Kil and Seo et al. Meta-analysis of Daphnia magna nanotoxicity experiments in accordance with test guidelines (2018)",
+    "description": "This is an RDF version of the dataset published by Shin, Hyun Kil and Seo et al. as a supplement of the study Meta-analysis of Daphnia magna nanotoxicity experiments in accordance with test guidelines. Environ. Sci.: Nano (2018). The original dataset is available online: https://ui.staging.kit.cloud.douglasconnect.com/dataexplorer?dataset=ab2bc1ee-99dc-4ddf-b1f9-9fdeb8a0f48c%3A1&q=%7B%7D. The original publication DOI: http://dx.doi.org/10.1039/C7EN01127J. GitHub repository of the datasets converted to RDF along with RML mappings: https://github.com/ammar257ammar/RDFied-datasets",
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "url": "https://zenodo.org/record/7602354",
+    "keywords": "daphnia, nanomaterial, toxicity, prediction",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "NanoSolveIT"
+      }
+    ],
+    "datePublished": "2023-02-06",
+    "citation": { "@type": "CreativeWork", "@id": "http://dx.doi.org/10.1039/C7EN01127J", "name": "Meta-analysis of Daphnia magna nanotoxicity experiments in accordance with test guidelines" }
+  }
+</script>
+* [Dataset Overview](overview/7602354.md)
+* Date: 2023-02-06
+* License: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
+* Project: [NanoSolveIT](https://www.nanosolveit.eu/)
+* URL: [https://zenodo.org/record/7602354](https://zenodo.org/record/7602354)
+* DOI: 10.5281/zenodo.7602354
+
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.6473305"></div>
 
 ## Raw data of multiplex assay on cyto-/chemokine secretion from human monocyte-derived dendritic cells
