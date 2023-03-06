@@ -62,6 +62,36 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * URL: [https://zenodo.org/record/7602354](https://zenodo.org/record/7602354)
 * DOI: 10.5281/zenodo.7602354
 
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7335039"></div>
+
+## Extracting interpretable rules with Bayesian Networks. A case study of intrinsic human hazardous properties of silver nanoforms for the Safety Dimension of Safe and Sustainable by design paradigm
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.7335039",
+    "identifier": "10.5281/zenodo.7335039",
+    "name": "Extracting interpretable rules with Bayesian Networks. A case study of intrinsic human hazardous properties of silver nanoforms for the Safety Dimension of Safe and Sustainable by design paradigm",
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "url": "https://zenodo.org/record/7335039",
+    "keywords": "Bayesian statistics, lung, intestine, silver nanoform",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "ASINA",
+        "url": "https://www.asina-project.eu/"
+      }
+    ],
+    "datePublished": "2022-11-18"
+  }
+</script>
+* Date: 2022-11-18
+* License: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
+* Project: [ASINA](https://www.asina-project.eu/)
+* URL: [https://zenodo.org/record/7335039](https://zenodo.org/record/7335039)
+* DOI: 10.5281/zenodo.7335039
+
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.6473305"></div>
 
 ## Raw data of multiplex assay on cyto-/chemokine secretion from human monocyte-derived dendritic cells
