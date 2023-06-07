@@ -29,6 +29,101 @@ only downloaded from the archives but can also be interactively explored via dat
 Additional datasets and databases that provide interactive access to these datasets can
 be reported [here](https://github.com/NanoCommons/datasets/issues).
 
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7990302"></div>
+
+## Physico-chemical characterization of sterile Fe3O4 nanoparticles by XPS / HAXPES / SEM
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.7990302",
+    "identifier": "10.5281/zenodo.7990302",
+    "name": "Physico-chemical characterization of sterile Fe3O4 nanoparticles by XPS / HAXPES / SEM",
+    "description": "<p>Here a dataset of XPS, HAXPES and SEM measurements for the physico-chemical characterization of nanoparticles is presented. The measurements are part of the H2020 project NanoSolveIT. Sterile Fe3O4 nanoparticles were synthesized under aseptic conditions at Mintek, South Africa (EMR-Identifier in the project: ERM00000583).",
+    "license": "https://creativecommons.org/licenses/by-nc/3.0/de/legalcode",
+    "url": "https://zenodo.org/record/7990302",
+    "keywords": "XPS, HAXPES, SEM, nanoparticles, nanosafety, physico-chemical characterization, Fe3O4, ERM00000583",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "NanoSolveIT"
+      }
+    ],
+    "datePublished": "2023-05-31"
+  }
+</script>
+* Date: 2023-05-31
+* License: [Creative Commons Attribution Non Commercial 3.0 Germany](https://creativecommons.org/licenses/by-nc/3.0/de/legalcode)
+* Project: [NanoSolveIT](http://nanosolveit.eu/)
+* URL: [https://zenodo.org/record/7990302](https://zenodo.org/record/7990302)
+* DOI: 10.5281/zenodo.7990302
+
+
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7990251"></div>
+
+## Physico-chemical characterization of sterile citrated stabilized Au nanoparticles by XPS / HAXPES / SEM
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.7990251",
+    "identifier": "10.5281/zenodo.7990251",
+    "name": "Physico-chemical characterization of sterile citrated stabilized Au nanoparticles by XPS / HAXPES / SEM",
+    "description": "<p>Here a dataset of XPS, HAXPES and SEM measurements for the physico-chemical characterization of nanoparticles is presented. The measurements are part of the H2020 project NanoSolveIT. Sterile citrated stabilized Au nanoparticles with a diameter of approx. 30 nm were synthesized under aseptic conditions at Mintek, South Africa (EMR-Identifier in the project: ERM00000582).",
+    "license": "https://creativecommons.org/licenses/by-nc/3.0/de/legalcode",
+    "url": "https://zenodo.org/record/7990251",
+    "keywords": "XPS, HAXPES, SEM, nanoparticles, nanosafety, physico-chemical characterization, Au NPs, ERM00000582",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "NanoSolveIT"
+      }
+    ],
+    "datePublished": "2023-05-31"
+  }
+</script>
+* Date: 2023-05-31
+* License: [Creative Commons Attribution Non Commercial 3.0 Germany](https://creativecommons.org/licenses/by-nc/3.0/de/legalcode)
+* Project: [NanoSolveIT](http://nanosolveit.eu/)
+* URL: [https://zenodo.org/record/7990251](https://zenodo.org/record/7990251)
+* DOI: 10.5281/zenodo.7990251
+
+
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7990214"></div>
+
+## Physico-chemical characterization of sterile ZnO nanoparticles by XPS / HAXPES / SEM
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.7990214",
+    "identifier": "10.5281/zenodo.7990214",
+    "name": "Physico-chemical characterization of sterile ZnO nanoparticles by XPS / HAXPES / SEM",
+    "description": "Here a dataset of XPS, HAXPES and SEM measurements for the physico-chemical characterization of nanoparticles is presented. The measurements are part of the H2020 project NanoSolveIT. Sterile ZnO nanoparticles were synthesized under aseptic conditions at Mintek, South Africa (EMR-Identifier in the project: ERM00000584).",
+    "license": "https://creativecommons.org/licenses/by-nc/3.0/de/legalcode",
+    "url": "https://zenodo.org/record/7990214",
+    "keywords": "XPS, HAXPES, SEM, nanoparticles, nanosafety, physico-chemical characterization, ZnO, ERM00000584",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "NanoSolveIT"
+      }
+    ],
+    "datePublished": "2023-05-31"
+  }
+</script>
+* Date: 2023-05-31
+* License: [Creative Commons Attribution Non Commercial 3.0 Germany](https://creativecommons.org/licenses/by-nc/3.0/de/legalcode)
+* Project: [NanoSolveIT](http://nanosolveit.eu/)
+* URL: [https://zenodo.org/record/7990214](https://zenodo.org/record/7990214)
+* DOI: 10.5281/zenodo.7990214
+
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7602354"></div>
 
 ## RDF version of the supplementary data from Shin, Hyun Kil and Seo et al. Meta-analysis of Daphnia magna nanotoxicity experiments in accordance with test guidelines (2018)
