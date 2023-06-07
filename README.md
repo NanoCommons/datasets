@@ -124,6 +124,130 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * URL: [https://zenodo.org/record/7990214](https://zenodo.org/record/7990214)
 * DOI: 10.5281/zenodo.7990214
 
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7940162"></div>
+
+## Physico-chemical characterization of sterilized ZnO nanoparticles by XPS / HAXPES / SEM
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.7940162",
+    "identifier": "10.5281/zenodo.7940162",
+    "name": "Physico-chemical characterization of sterilized ZnO nanoparticles by XPS / HAXPES / SEM",
+    "description": "Here a dataset of XPS, HAXPES and SEM measurements for the physico-chemical characterization of sterilized nanoparticles is presented. The measurements are part of the H2020 project NanoSolveIT. ZnO nanoparticles were provided by Promethean Particles and treated differently by project partners from the University of Birmingham (EMR-Identifiers in the project: ERM00000416, ERM00000458, ERM00000437).",
+    "license": "https://creativecommons.org/licenses/by-nc/3.0/de/legalcode",
+    "url": "https://zenodo.org/record/7940162",
+    "keywords": "XPS, HAXPES, SEM, EDS, nanoparticles, nanosafety, physico-chemical characterization, ZnO, ERM00000416, ERM00000458, ERM00000437",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "NanoSolveIT"
+      }
+    ],
+    "datePublished": "2023-05-16"
+  }
+</script>
+* Date: 2023-05-16
+* License: [Creative Commons Attribution Non Commercial 3.0 Germany](https://creativecommons.org/licenses/by-nc/3.0/de/legalcode)
+* Project: [NanoSolveIT](http://nanosolveit.eu/)
+* URL: [https://zenodo.org/record/7940162](https://zenodo.org/record/7940162)
+* DOI: 10.5281/zenodo.7940162
+
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7940272"></div>
+
+## Physico-chemical characterization of sterilized Co1.5Fe1.5O4 nanoparticles by XPS / HAXPES / SEM
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.7940272",
+    "identifier": "10.5281/zenodo.7940272",
+    "name": "Physico-chemical characterization of sterilized Co1.5Fe1.5O4 nanoparticles by XPS / HAXPES / SEM",
+    "description": "Here a dataset of XPS, HAXPES and SEM measurements for the physico-chemical characterization of sterilized nanoparticles is presented. The measurements are part of the H2020 project NanoSolveIT. Co1.5Fe1.5O4 nanoparticles were provided by Promethean Particles and treated differently by project partners from the University of Birmingham (EMR-Identifier in the project: ERM00000407, ERM00000449, ERM00000428).</p>",
+    "license": "https://creativecommons.org/licenses/by-nc/3.0/de/legalcode",
+    "url": "https://zenodo.org/record/7940272",
+    "keywords": "XPS, HAXPES, SEM, EDS, nanoparticles, nanosafety, physico-chemical characterization, Co1.5Fe1.5O4, ERM00000407, ERM00000449, ERM00000428",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "NanoSolveIT"
+      }
+    ],
+    "datePublished": "2023-05-16"
+  }
+</script>
+* Date: 2023-05-16
+* License: [Creative Commons Attribution Non Commercial 3.0 Germany](https://creativecommons.org/licenses/by-nc/3.0/de/legalcode)
+* Project: [NanoSolveIT](http://nanosolveit.eu/)
+* URL: [https://zenodo.org/record/7940272](https://zenodo.org/record/7940272)
+* DOI: 10.5281/zenodo.7940272
+
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7940539"></div>
+
+## Physico-chemical characterization of sterilized Co2.25Fe0.75O4 nanoparticles by XPS / HAXPES / SEM
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.7940539",
+    "identifier": "10.5281/zenodo.7940539",
+    "name": "Physico-chemical characterization of sterilized Co2.25Fe0.75O4 nanoparticles by XPS / HAXPES / SEM",
+    "description": "Here a dataset of XPS, HAXPES and SEM measurements for the physico-chemical characterization of sterilized nanoparticles is presented. The measurements are part of the H2020 project NanoSolveIT. Co2.25Fe0.75O4 nanoparticles were provided by Promethean Particles and treated differently by project partners from the University of Birmingham (EMR identifier in the project: ERM00000406, ERM00000448, ERM00000427).</p>",
+    "license": "https://creativecommons.org/licenses/by-nc/3.0/de/legalcode",
+    "url": "https://zenodo.org/record/7940539",
+    "keywords": "XPS, HAXPES, SEM, EDS, nanoparticles, nanosafety, physico-chemical characterization, Co2.25Fe0.75O4, ERM00000406, ERM00000448, ERM00000427",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "NanoSolveIT"
+      }
+    ],
+    "datePublished": "2023-05-16"
+  }
+</script>
+* Date: 2023-05-16
+* License: [Creative Commons Attribution Non Commercial 3.0 Germany](https://creativecommons.org/licenses/by-nc/3.0/de/legalcode)
+* Project: [NanoSolveIT](http://nanosolveit.eu/)
+* URL: [https://zenodo.org/record/7940539](https://zenodo.org/record/7940539)
+* DOI: 10.5281/zenodo.7940539
+
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7940770"></div>
+
+## Physico-chemical characterization of sterilized Co0.75Fe2.25O4 nanoparticles by XPS / HAXPES / SEM
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.7940770",
+    "identifier": "10.5281/zenodo.7940770",
+    "name": "Physico-chemical characterization of sterilized Co0.75Fe2.25O4 nanoparticles by XPS / HAXPES / SEM",
+    "description": "Here a dataset of XPS, HAXPES and SEM measurements for the physico-chemical characterization of sterilized nanoparticles is presented. The measurements are part of the H2020 project NanoSolveIT. Co0.75Fe2.25O4 nanoparticles were provided by Promethean Particles and treated differently by project partners from the University of Birmingham (EMR identifiers in the project: ERM00000408, ERM00000450, ERM00000429).",
+    "license": "https://creativecommons.org/licenses/by-nc/3.0/de/legalcode",
+    "url": "https://zenodo.org/record/7940770",
+    "keywords": "XPS, HAXPES, SEM, EDS, nanoparticles, nanosafety, physico-chemical characterization, Co0.75Fe2.25O4, ERM00000408, ERM00000450, ERM00000429",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "NanoSolveIT"
+      }
+    ],
+    "datePublished": "2023-05-16"
+  }
+</script>
+* Date: 2023-05-16
+* License: [Creative Commons Attribution Non Commercial 3.0 Germany](https://creativecommons.org/licenses/by-nc/3.0/de/legalcode)
+* Project: [NanoSolveIT](http://nanosolveit.eu/)
+* URL: [https://zenodo.org/record/7940770](https://zenodo.org/record/7940770)
+* DOI: 10.5281/zenodo.7940770
+
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7602354"></div>
 
 ## RDF version of the supplementary data from Shin, Hyun Kil and Seo et al. Meta-analysis of Daphnia magna nanotoxicity experiments in accordance with test guidelines (2018)
