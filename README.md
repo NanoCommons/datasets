@@ -124,8 +124,6 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * URL: [https://zenodo.org/record/7990214](https://zenodo.org/record/7990214)
 * DOI: 10.5281/zenodo.7990214
 
-<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7940162"></div>
-
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7965446"></div>
 
 ## Physico-chemical characterization of sterilized Ce0.5Zr0.5O2 nanoparticles by XPS / HAXPES / SEM
@@ -156,6 +154,8 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * Project: [NanoSolveIT](http://nanosolveit.eu/)
 * URL: [https://zenodo.org/record/7965446](https://zenodo.org/record/7965446)
 * DOI: 10.5281/zenodo.7965446
+
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7940162"></div>
 
 ## Physico-chemical characterization of sterilized ZnO nanoparticles by XPS / HAXPES / SEM
 
@@ -372,8 +372,6 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * URL: [https://zenodo.org/record/7941462](https://zenodo.org/record/7941462)
 * DOI: 10.5281/zenodo.7941462
 
-<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7941567"></div>
-
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7961318"></div>
 
 ## Physico-chemical characterization of sterilized TiO2 D540 nanoparticles by XPS / HAXPES / SEM
@@ -404,6 +402,8 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * Project: [NanoSolveIT](http://nanosolveit.eu/)
 * URL: [https://zenodo.org/record/7961318](https://zenodo.org/record/7961318)
 * DOI: 10.5281/zenodo.7961318
+
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7941567"></div>
 
 ## Physico-chemical characterization of sterilized TiO2 nanoparticles by XPS / HAXPES / SEM
 
