@@ -5,11 +5,13 @@
 @Grab(group='io.github.egonw.bacting', module='managers-rdf', version='0.3.3-SNAPSHOT')
 @Grab(group='io.github.egonw.bacting', module='managers-ui', version='0.3.3-SNAPSHOT')
 @Grab(group='io.github.egonw.bacting', module='managers-zenodo', version='0.3.3-SNAPSHOT')
+@Grab(group='io.github.egonw.bacting', module='net.bioclipse.managers.jsoup', version='0.3.3-SNAPSHOT')
 
 import groovy.xml.XmlParser
 
 bioclipse = new net.bioclipse.managers.BioclipseManager(".");
 zenodo = new net.bioclipse.managers.ZenodoManager(".");
+jsoup = new net.bioclipse.managers.JSoupManager(".");
 
 xml = zenodo.getOAIPMHData(args[0])
 
@@ -31,7 +33,7 @@ title = record.titles.title[0].text()
 date = record.dates.date[0].text()
 license = record.rightsList.rights[0].@rightsURI
 licenseTitle = record.rightsList.rights[0].text()
-description = record.descriptions.description[0].text()
+description = jsoup.removeHTMLTags(record.descriptions.description[0].text())
 keywords = record.subjects.subject[0].text()
 url = record.alternateIdentifiers.find {
   it.alternateIdentifier.'@alternateIdentifierType'.text() == "url"
