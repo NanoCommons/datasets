@@ -126,6 +126,37 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7940162"></div>
 
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7965446"></div>
+
+## Physico-chemical characterization of sterilized Ce0.5Zr0.5O2 nanoparticles by XPS / HAXPES / SEM
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.7965446",
+    "identifier": "10.5281/zenodo.7965446",
+    "name": "Physico-chemical characterization of sterilized Ce0.5Zr0.5O2 nanoparticles by XPS / HAXPES / SEM",
+    "description": "Here a dataset of XPS, HAXPES and SEM measurements for the physico-chemical characterization of sterilized nanoparticles is presented. The measurements are part of the H2020 project “NanoSolveIT”. Ce0.5Zr0.5O2 nanoparticles were provided by Promethean Particles and treated differently by project partners from the University of Birmingham (EMR identifier in the project: ERM00000401, ERM00000443, ERM00000422).",
+    "license": "https://creativecommons.org/licenses/by-nc/3.0/de/legalcode",
+    "url": "https://zenodo.org/record/7965446",
+    "keywords": "XPS, HAXPES, SEM, EDS, nanoparticles, nanosafety, physico-chemical characterization, Ce0.5Zr0.5O2, ERM00000401, ERM00000443, ERM00000422",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "NanoSolveIT"
+      }
+    ],
+    "datePublished": "2023-05-23"
+  }
+</script>
+* Date: 2023-05-23
+* License: [Creative Commons Attribution Non Commercial 3.0 Germany](https://creativecommons.org/licenses/by-nc/3.0/de/legalcode)
+* Project: [NanoSolveIT](http://nanosolveit.eu/)
+* URL: [https://zenodo.org/record/7965446](https://zenodo.org/record/7965446)
+* DOI: 10.5281/zenodo.7965446
+
 ## Physico-chemical characterization of sterilized ZnO nanoparticles by XPS / HAXPES / SEM
 
 <script type="application/ld+json">
@@ -247,6 +278,161 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * Project: [NanoSolveIT](http://nanosolveit.eu/)
 * URL: [https://zenodo.org/record/7940770](https://zenodo.org/record/7940770)
 * DOI: 10.5281/zenodo.7940770
+
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7941002"></div>
+
+## Physico-chemical characterization of sterilized Fe2O3 nanoparticles by XPS / HAXPES / SEM
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.7941002",
+    "identifier": "10.5281/zenodo.7941002",
+    "name": "Physico-chemical characterization of sterilized Fe2O3 nanoparticles by XPS / HAXPES / SEM",
+    "description": "Here a dataset of XPS, HAXPES and SEM measurements for the physico-chemical characterization of sterilized nanoparticles is presented. The measurements are part of the H2020 project NanoSolveIT. Fe2O3 nanoparticles were provided by Promethean Particles and treated differently by project partners from the University of Birmingham (EMR identifiers in the project: ERM00000410, ERM00000452, ERM00000431).",
+    "license": "https://creativecommons.org/licenses/by-nc/3.0/de/legalcode",
+    "url": "https://zenodo.org/record/7941002",
+    "keywords": "XPS, HAXPES, SEM, EDS, nanoparticles, nanosafety, physico-chemical characterization, Fe2O3, ERM00000410, ERM00000452, ERM00000431",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "NanoSolveIT"
+      }
+    ],
+    "datePublished": "2023-05-16"
+  }
+</script>
+* Date: 2023-05-16
+* License: [Creative Commons Attribution Non Commercial 3.0 Germany](https://creativecommons.org/licenses/by-nc/3.0/de/legalcode)
+* Project: [NanoSolveIT](http://nanosolveit.eu/)
+* URL: [https://zenodo.org/record/7941002](https://zenodo.org/record/7941002)
+* DOI: 10.5281/zenodo.7941002
+
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7941248"></div>
+
+## Physico-chemical characterization of sterilized Co3O4 nanoparticles by XPS / HAXPES / SEM
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.7941248",
+    "identifier": "10.5281/zenodo.7941248",
+    "name": "Physico-chemical characterization of sterilized Co3O4 nanoparticles by XPS / HAXPES / SEM",
+    "description": "Here a dataset of XPS, HAXPES and SEM measurements for the physico-chemical characterization of sterilized nanoparticles is presented. The measurements are part of the H2020 project “NanoSolveIT”. Co3O4 nanoparticles were provided by Promethean Particles and treated differently by project partners from the University of Birmingham (EMR identifier in the project: ERM00000405, ERM00000447, ERM00000426).",
+    "license": "https://creativecommons.org/licenses/by-nc/3.0/de/legalcode",
+    "url": "https://zenodo.org/record/7941248",
+    "keywords": "XPS, HAXPES, SEM, EDS, nanoparticles, nanosafety, physico-chemical characterization, Co3O4, ERM00000405, ERM00000447, ERM00000426",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "NanoSolveIT"
+      }
+    ],
+    "datePublished": "2023-05-16"
+  }
+</script>
+* Date: 2023-05-16
+* License: [Creative Commons Attribution Non Commercial 3.0 Germany](https://creativecommons.org/licenses/by-nc/3.0/de/legalcode)
+* Project: [NanoSolveIT](http://nanosolveit.eu/)
+* URL: [https://zenodo.org/record/7941248](https://zenodo.org/record/7941248)
+* DOI: 10.5281/zenodo.7941248
+
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7941462"></div>
+
+## Physico-chemical characterization of sterilized CeO2 nanoparticles by XPS / HAXPES / SEM
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.7941462",
+    "identifier": "10.5281/zenodo.7941462",
+    "name": "Physico-chemical characterization of sterilized CeO2 nanoparticles by XPS / HAXPES / SEM",
+    "description": "Here a dataset of XPS, HAXPES and SEM measurements for the physico-chemical characterization of sterilized nanoparticles is presented. The measurements are part of the H2020 project “NanoSolveIT”. CeO2 nanoparticles were provided by Promethean Particles and treated differently by project partners from the University of Birmingham (EMR identifier in the project: ERM00000398, ERM00000440, ERM00000419).",
+    "license": "https://creativecommons.org/licenses/by-nc/3.0/de/legalcode",
+    "url": "https://zenodo.org/record/7941462",
+    "keywords": "XPS, HAXPES, SEM, EDS, nanoparticles, nanosafety, physico-chemical characterization, CoO2, ERM00000398, ERM00000440, ERM00000419",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "NanoSolveIT"
+      }
+    ],
+    "datePublished": "2023-05-16"
+  }
+</script>
+* Date: 2023-05-16
+* License: [Creative Commons Attribution Non Commercial 3.0 Germany](https://creativecommons.org/licenses/by-nc/3.0/de/legalcode)
+* Project: [NanoSolveIT](http://nanosolveit.eu/)
+* URL: [https://zenodo.org/record/7941462](https://zenodo.org/record/7941462)
+* DOI: 10.5281/zenodo.7941462
+
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7941567"></div>
+
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7961318"></div>
+
+## Physico-chemical characterization of sterilized TiO2 D540 nanoparticles by XPS / HAXPES / SEM
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.7961318",
+    "identifier": "10.5281/zenodo.7961318",
+    "name": "Physico-chemical characterization of sterilized TiO2 D540 nanoparticles by XPS / HAXPES / SEM",
+    "description": "Here a dataset of XPS, HAXPES and SEM measurements for the physico-chemical characterization of sterilized nanoparticles is presented. The measurements are part of the H2020 project “NanoSolveIT”. TiO2 D540 nanoparticles, which are TiO2 particles, with a diameter of about 540nm, were provided by Promethean Particles and treated differently by project partners from the University of Birmingham (EMR identifier in the project: ERM00000415, ERM00000457, ERM00000436).",
+    "license": "https://creativecommons.org/licenses/by-nc/3.0/de/legalcode",
+    "url": "https://zenodo.org/record/7961318",
+    "keywords": "XPS, HAXPES, SEM, EDS, nanoparticles, nanosafety, physico-chemical characterization, TiO2 D540, ERM00000415, ERM00000457, ERM00000436",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "NanoSolveIT"
+      }
+    ],
+    "datePublished": "2023-05-16"
+  }
+</script>
+* Date: 2023-05-16
+* License: [Creative Commons Attribution Non Commercial 3.0 Germany](https://creativecommons.org/licenses/by-nc/3.0/de/legalcode)
+* Project: [NanoSolveIT](http://nanosolveit.eu/)
+* URL: [https://zenodo.org/record/7961318](https://zenodo.org/record/7961318)
+* DOI: 10.5281/zenodo.7961318
+
+## Physico-chemical characterization of sterilized TiO2 nanoparticles by XPS / HAXPES / SEM
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.7941567",
+    "identifier": "10.5281/zenodo.7941567",
+    "name": "Physico-chemical characterization of sterilized TiO2 nanoparticles by XPS / HAXPES / SEM",
+    "description": "Here a dataset of XPS, HAXPES and SEM measurements for the physico-chemical characterization of sterilized nanoparticles is presented. The measurements are part of the H2020 project “NanoSolveIT”. TiO2 nanoparticles were provided by Promethean Particles and treated differently by project partners from the University of Birmingham (EMR identifier in the project: ERM00000413, ERM00000455, ERM00000434).",
+    "license": "https://creativecommons.org/licenses/by-nc/3.0/de/legalcode",
+    "url": "https://zenodo.org/record/7941567",
+    "keywords": "XPS, HAXPES, SEM, EDS, nanoparticles, nanosafety, physico-chemical characterization, TiO2, ERM00000413, ERM00000455, ERM00000434",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "NanoSolveIT"
+      }
+    ],
+    "datePublished": "2023-05-16"
+  }
+</script>
+* Date: 2023-05-16
+* License: [Creative Commons Attribution Non Commercial 3.0 Germany](https://creativecommons.org/licenses/by-nc/3.0/de/legalcode)
+* Project: [NanoSolveIT](http://nanosolveit.eu/)
+* URL: [https://zenodo.org/record/7941567](https://zenodo.org/record/7941567)
+* DOI: 10.5281/zenodo.7941567
 
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7602354"></div>
 
