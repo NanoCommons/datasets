@@ -2,10 +2,10 @@
 //
 // GPL v3
 
-@Grab(group='io.github.egonw.bacting', module='managers-rdf', version='0.3.3-SNAPSHOT')
-@Grab(group='io.github.egonw.bacting', module='managers-ui', version='0.3.3-SNAPSHOT')
-@Grab(group='io.github.egonw.bacting', module='managers-zenodo', version='0.3.3-SNAPSHOT')
-@Grab(group='io.github.egonw.bacting', module='net.bioclipse.managers.jsoup', version='0.3.3-SNAPSHOT')
+@Grab(group='io.github.egonw.bacting', module='managers-rdf', version='0.4.0')
+@Grab(group='io.github.egonw.bacting', module='managers-ui', version='0.4.0')
+@Grab(group='io.github.egonw.bacting', module='managers-zenodo', version='0.4.0')
+@Grab(group='io.github.egonw.bacting', module='net.bioclipse.managers.jsoup', version='0.4.0')
 
 import groovy.xml.XmlParser
 
@@ -35,9 +35,7 @@ license = record.rightsList.rights[0].@rightsURI
 licenseTitle = record.rightsList.rights[0].text()
 description = jsoup.removeHTMLTags(record.descriptions.description[0].text())
 keywords = record.subjects.subject[0].text()
-url = record.alternateIdentifiers.find {
-  it.alternateIdentifier.'@alternateIdentifierType'.text() == "url"
-}.alternateIdentifier.text()
+url = "https://doi.org/${doi}"
 
 print """
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="${doi}"></div>
