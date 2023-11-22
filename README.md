@@ -776,6 +776,37 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * URL: [https://zenodo.org/record/7335039](https://zenodo.org/record/7335039)
 * DOI: 10.5281/zenodo.7335039
 
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7980953"></div>
+
+## A Curated Gene and Biological System Annotation of Adverse Outcome Pathways Related to Human Health
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.7980953",
+    "identifier": "10.5281/zenodo.7980953",
+    "name": "A Curated Gene and Biological System Annotation of Adverse Outcome Pathways Related to Human Health",
+    "description": "Adverse Outcome Pathways (AOPs) are multi-scale models of biological mechanisms connecting molecular initiating events to adverse outcomes through measurable key events. AOPs can guide the use and development of new approach methodologies (NAMs) aimed at reducing animal experimentation in chemical safety assessment. Here, we present a comprehensive molecular annotation of AOPs relevant to human health to embed the AOP framework into molecular data interpretation, which supports the development and application of novel AOP-based approaches in biomedical research. Please cite the following publication alongside this Zenodo entry when using the data: Saarimäki, L.A., Fratello, M., Pavel, A. et al. A curated gene and biological system annotation of adverse outcome pathways related to human health. Sci Data 10, 409 (2023). https://doi.org/10.1038/s41597-023-02321-w",
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "url": "https://doi.org/10.5281/zenodo.7980953",
+    "keywords": "Adverse Outcome Pathways",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "NanoSolveIT"
+      }
+    ],
+    "datePublished": "2022-11-01"
+  }
+</script>
+* Date: 2022-11-01
+* License: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+* Project: [NanoSolveIT](http://nanosolveit.eu/)
+* URL: [https://doi.org/10.5281/zenodo.7980953](https://doi.org/10.5281/zenodo.7980953)
+* DOI: 10.5281/zenodo.7980953
+
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.6473305"></div>
 
 ## Raw data of multiplex assay on cyto-/chemokine secretion from human monocyte-derived dendritic cells
