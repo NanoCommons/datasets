@@ -26,6 +26,14 @@ oaiDatacite.GetRecord.record.header.setSpec.each { it ->
     orgURL = "http://nanosolveit.eu/"
   }
 }
+oaiDatacite.GetRecord.record.metadata.oai_datacite.payload.resource.fundingReferences.fundingReference.each { it ->
+  if (it.funderIdentifier.text() == "00k4n6c32" && it.awardNumber.text() == "814572") {
+    org = "NanoSolveIT"
+    orgURL = "http://nanosolveit.eu/"
+  }
+}
+
+
 
 record = oaiDatacite.GetRecord.record.metadata.oai_datacite.payload.resource
 doi = record.identifier.text()
