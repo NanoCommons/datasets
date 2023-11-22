@@ -713,6 +713,36 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * URL: [https://zenodo.org/record/7941567](https://zenodo.org/record/7941567)
 * DOI: 10.5281/zenodo.7941567
 
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7674574"></div>
+
+## Data & code repository for the article "An ancestral molecular response to nanomaterial particulates"
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.7674574",
+    "identifier": "10.5281/zenodo.7674574",
+    "name": "Data & code repository for the article "An ancestral molecular response to nanomaterial particulates"",
+    "description": "This repository contains the relevant data and code supporting the study "An ancestral molecular response to nanomaterial particulates" (DOI: 10.1038/s41565-023-01393-4). In detail the following data sources have been included: - the preprocessed transcriptomic datasets GSE157266 and GSE148705 included in the discovery set (curated_transcriptomic_data.zip); - supplementary materials of the paper, including curated molecular descriptors panels and the ENM gene signature (supplementary_files.zip); -The preprocessed microarray transcriptomics data for drug exposure have been curated from a selection of the Open Toxicogenomics Project-Genomics Assisted Toxicity Evaluation System (TG-GATEs) data (transcriptomic_data_drug_exposures.zip); -the chemical signatures collected from the Comparative Toxicogenomics Database (CTD) (CTD_signatures.zip); -the list of dose dependent genes for individual transcriptomic dataset (dose_dependent_genes.zip); -the relevant code and input data (code.zip and input_data.zip)",
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "url": "https://doi.org/10.5281/zenodo.7674574",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "NanoSolveIT"
+      }
+    ],
+    "datePublished": "2023-02-24"
+  }
+</script>
+* Date: 2023-02-24
+* License: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+* Project: [NanoSolveIT](http://nanosolveit.eu/)
+* URL: [https://doi.org/10.5281/zenodo.7674574](https://doi.org/10.5281/zenodo.7674574)
+* DOI: 10.5281/zenodo.7674574
+
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7602354"></div>
 
 ## RDF version of the supplementary data from Shin, Hyun Kil and Seo et al. Meta-analysis of Daphnia magna nanotoxicity experiments in accordance with test guidelines (2018)
