@@ -42,8 +42,17 @@ date = record.dates.date[0].text()
 license = record.rightsList.rights[0].@rightsURI
 licenseTitle = record.rightsList.rights[0].text()
 description = jsoup.removeHTMLTags(record.descriptions.description[0].text())
-keywords = record.subjects.subject[0].text()
+keywords = ""
+if (record.subjects.subject.size() > 0) {
+  keywords = record.subjects.subject.iterator().collect{it.text()}.join(", ")
+}
 url = "https://doi.org/${doi}"
+
+keywordLine = ""
+if (keywords.length() > 0) {
+  keywordLine = """
+    \"keywords\": \"${keywords}\","""
+}
 
 print """
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="${doi}"></div>
@@ -60,8 +69,7 @@ print """
     "name": "${title}",
     "description": "${description}",
     "license": "${license}",
-    "url": "${url}",
-    "keywords": "${keywords}",
+    "url": "${url}",${keywordLine}
     "creator": [
       {
         "@type": "Organization",
