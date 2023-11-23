@@ -29,6 +29,168 @@ only downloaded from the archives but can also be interactively explored via dat
 Additional datasets and databases that provide interactive access to these datasets can
 be reported [here](https://github.com/NanoCommons/datasets/issues).
 
+
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.8321185"></div>
+
+## Occupational exposure dataset for TiO2, carbon black and TiO2 and Ag;X
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.8321185",
+    "identifier": "10.5281/zenodo.8321185",
+    "name": "Occupational exposure dataset for TiO2, carbon black and TiO2 and Ag;X",
+    "description": "The size-resolved emission rate distributions of the nanomaterials supported by occupational exposure web application (https://aerosol.cloud.nanosolveit.eu/) hosted on NanoSolveIT Cloud Platform. distributions are based on experimental data from: A. J. Koivisto, T. Hussein, R. Niemelä, T. Tuomi and K. Hämeri, Impact of particle emissions of new laser printers on modeled office room, Atmos. Environ., 2010, 44(17), 2140–2146. V. Gomez, M. Levin, A. T. Saber, S. Irusta, M. Dal Maso and R. Hanoi, et al., Comparison of Dust Release from Epoxy and Paint Nanocomposites and Conventional Products during Sanding and Sawing, Ann. Occup. Hyg., 2014, 58(8), 983–994. A. J. Koivisto, A. C. Ø. Jensen, K. I. Kling, J. Kling, H. C. Budtz and I. K. Koponen, et al., Particle emission rates during electrostatic spray deposition of TiO2 nanoparticlebased photoactive coating, J. Hazard. Mater., 2018, 341, 218–227. 1 A. J. Koivisto, K. I. Kling, A. S. Fonseca, A. B. Bluhme, M. Moreman and M. Yu, et al., Dip coating of air purifier ceramic honeycombs with photocatalytic TiO2 nanoparticles: A case study for occupational exposure, Sci. Total Environ., 2018, 630, 1283–1291. Details for the usage of the database can be found in: P. Tsiros, N. Cheimarios, A. Tsoumanis, A.C.O. Jensen, G. Melagraki, I. Lynch, H. Sarimveis, A. Afantitis, “Towards an in silico Integrated Approach for Testing and Assessment of nanomaterials: from predicted indoor air concentrations to lung dose and biodistribution”, Environmental Science: Nano, 9, 1282, (2022). https://pubs.rsc.org/en/content/articlelanding/2022/en/d1en00956g",
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "url": "https://doi.org/10.5281/zenodo.8321185",
+    "keywords": "exposure, nanomaterials, NanoSolveIT Cloud Platform, IATA",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "NanoSolveIT"
+      }
+    ],
+    "datePublished": "2023-08-31"
+  }
+</script>
+* Date: 2023-08-31
+* License: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+* Project: [NanoSolveIT](http://nanosolveit.eu/)
+* URL: [https://doi.org/10.5281/zenodo.8321185](https://doi.org/10.5281/zenodo.8321185)
+* DOI: 10.5281/zenodo.8321185
+
+
+
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.8314626"></div>
+
+## Curated dataset on protein's properties and post-translational modification protein properties
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.8314626",
+    "identifier": "10.5281/zenodo.8314626",
+    "name": "Curated dataset on protein's properties and post-translational modification protein properties",
+    "description": "Proteins perform essential cellular functions, which range from cell division and metabolism to DNA replication. Thus, decoding the mechanism of action of cells, requires understanding of the functioning and physicochemical properties of proteins [1]. While the genetic code encodes the primary structure of proteins, they undergo various modifications as part of their normal functioning including addition of modifying groups, such as acetyl, phosphoryl, glycosyl, and methyl, to one or more amino acids after translation, which is known as post-translational modification (PTM) [2, 3]. PTMs play an essential role in regulating protein functions by altering their physicochemical properties and understanding these reactions provides valuable insights regarding cell function. Advances in proteomics research have significantly deepened our understanding of PTMs and their impact on cellular functions and disease mechanisms. The study of PTMs is now at the forefront of research in molecular biology and biochemistry. Many databases, software, and tools have been developed to enhance our understanding of the various PTMs that affect human plasma proteins and help to simplify the analysis of complex PTM data [4]. These PTM databases and tools contain significant information and are a valuable resource for the research community. Key databases include dbPTM, UniProt, and PubChem. Utilising these databases, protein-related information like substrate peptides, amino acid sequence numbers, and experimentally validated PTM sites can be identified and curated. This dataset presents curated information regarding PTM-related changes in the physicochemical properties of the 16 most abundant plasma proteins [5], i.e., Serum Albumin, Serotransferrin, Antithrombin-III, Apolipoprotein A-I, Apolipoprotein A-IV, Apolipoprotein B-100, Apolipoprotein C-II, Apolipoprotein C-III, Apolipoprotein E, Clusterin, Complement C3, Haptoglobin, Histidine-rich glycoprotein, Mannose-binding protein C, Hemoglobin, and Fibrinogen alpha chain. The physicochemical properties studied, and the impact of different PTMs on the properties, include the protein molecular weight, isoelectric point, surface hydrophobicity, and solubility. The PTMs explored include phosphorylation, acetylation, glycosylation, methylation, ubiquitination, SUMOylation, lipidation, glutathionylation, nitrosylation, sulfoxidation, succinylation, neddylation, malonylation, hydroxylation, oxidation, and palmitoylation. References Alberts B, Johnson A, Lewis J, et al. Molecular Biology of the Cell. 4th edition. New York: Garland Science; 2002. Analyzing Protein Structure and Function. Chen, H.; Venkat, S.; McGuire, P.; Gan, Q.; Fan, C. Recent Development of Genetic Code Expansion for Posttranslational Modification Studies. Molecules 2018, 23, 1662. Marc Oeller, Ryan Kang, Hannah Bolt, Ana Gomes dos Santos, Annika Langborg Weinmann, Antonios Nikitidis, Pavol Zlatoidsky, Wu Su, Werngard Czechtizky, Leonardo De Maria,Pietro Sormanni, Michele Vendruscolo: Sequence-based prediction of the solubility of peptides containing non-natural amino acids [bioRiv]. Ramazi S, Zahiri J. Posttranslational modifications in proteins: resources, tools and prediction methods. Database (Oxford). 2021 Apr 7;2021:baab012.",
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "url": "https://doi.org/10.5281/zenodo.8314626",
+    "keywords": "protein's properties, post-translational modification",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "NanoSolveIT"
+      }
+    ],
+    "datePublished": "2023-08-31"
+  }
+</script>
+* Date: 2023-08-31
+* License: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+* Project: [NanoSolveIT](http://nanosolveit.eu/)
+* URL: [https://doi.org/10.5281/zenodo.8314626](https://doi.org/10.5281/zenodo.8314626)
+* DOI: 10.5281/zenodo.8314626
+
+
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.8297121"></div>
+
+## Influence of protein corona on cytotoxicity of metal oxide nanoparticles against human keratinocyte cell line (HaCaT)
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.8297121",
+    "identifier": "10.5281/zenodo.8297121",
+    "name": "Influence of protein corona on cytotoxicity of metal oxide nanoparticles against human keratinocyte cell line (HaCaT)",
+    "description": "The model identified, among the factors determining the cytotoxic properties of metal oxide nanoparticles against HaCaT cell lines, a number of variables related to the processes occurring on the surface of nanoparticles in a biological medium, including the ability to form protein corona. The selected descriptors describe both the electronic structure of the metal oxides that are the components of the nanoparticles, i.e. the ionization potential (IP_ActivM_SM_#1, IP_ActivM_SM_#2) and the initial nanoforms, i.e. the particle size (Primary size) and the percentage content of the metal oxide which is the main component of the nanoparticle (Purity_#1) ; characterize nanoparticles in the medium, i.e. the isoelectric point (PZZP_#2), stability (Stability), potential for dissolution (Dissolution), generation of reactive oxygen species (ROS production) and protein adsorption (Protein adsorption). The listed descriptors reflect the features that are discussed in the literature as potentially related to the toxic effect of nanoparticles.",
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "url": "https://doi.org/10.5281/zenodo.8297121",
+    "keywords": "QSAR, QSPR, QMRF, nanomaterial, model, OECD, NanoSolveIT",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "NanoSolveIT"
+      }
+    ],
+    "datePublished": "2023-08-29"
+  }
+</script>
+* Date: 2023-08-29
+* License: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+* Project: [NanoSolveIT](http://nanosolveit.eu/)
+* URL: [https://doi.org/10.5281/zenodo.8297121](https://doi.org/10.5281/zenodo.8297121)
+* DOI: 10.5281/zenodo.8297121
+
+
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.8297079"></div>
+
+## Identification of factors determining the process of aggregation/agglomeration of metal oxide nanoparticles in a biological medium
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.8297079",
+    "identifier": "10.5281/zenodo.8297079",
+    "name": "Identification of factors determining the process of aggregation/agglomeration of metal oxide nanoparticles in a biological medium",
+    "description": "The model allows to identify factors determining the process of aggregation/agglomeration of metal oxide nanoparticles in a biological medium and to verify the importance of ion adsorption and protein adsorption in this process. Model confirms the significant effect of protein adsorption on the hydrodynamic diameter of metal oxide particles in the biological medium, and does not confirm the significant effect of ion adsorption in this process. It’s an example of modeling the properties of nanoparticles, where apart from the descriptors describing the structure of nanoparticles, there are also parameters characterizing the medium.",
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "url": "https://doi.org/10.5281/zenodo.8297079",
+    "keywords": "QSAR, QSPR, QMRF, nanomaterial, model, OECD, NanoSolveIT",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "NanoSolveIT"
+      }
+    ],
+    "datePublished": "2023-08-29"
+  }
+</script>
+* Date: 2023-08-29
+* License: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+* Project: [NanoSolveIT](http://nanosolveit.eu/)
+* URL: [https://doi.org/10.5281/zenodo.8297079](https://doi.org/10.5281/zenodo.8297079)
+* DOI: 10.5281/zenodo.8297079
+
+
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.8297068"></div>
+
+## The influence of the properties of inorganic solvents on the hydrodynamic diameter of TiO2 nanoparticles
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.8297068",
+    "identifier": "10.5281/zenodo.8297068",
+    "name": "The influence of the properties of inorganic solvents on the hydrodynamic diameter of TiO2 nanoparticles",
+    "description": "In this model the property of a nanomaterial is predicted not on the basis of descriptors characterizing the chemical composition of nanoparticles or physical properties of the initial nanoforms, but on the basis of descriptors describing the dispersion medium (pH, IP, D3_HeteroNonMetals) and the property of nanoparticles dependent on it (Potential ζ). The observed small size of the hydrodynamic diameter of TiO2 in solvents of strong acids and bases compared to other solvents may indicate stronger repulsive interactions between nanoparticles than in the case of other systems. Moreover, in the case of salt solutions, the observed large size of the hydrodynamic diameter of TiO2 may be the result of a thicker electrical layer surrounding the particles in the dispersion system.",
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "url": "https://doi.org/10.5281/zenodo.8297068",
+    "keywords": "QSAR, QSPR, QMRF, nanomaterial, model, OECD, NanoSolveIT",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "NanoSolveIT"
+      }
+    ],
+    "datePublished": "2023-08-29"
+  }
+</script>
+* Date: 2023-08-29
+* License: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+* Project: [NanoSolveIT](http://nanosolveit.eu/)
+* URL: [https://doi.org/10.5281/zenodo.8297068](https://doi.org/10.5281/zenodo.8297068)
+* DOI: 10.5281/zenodo.8297068
+
+
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.8297848"></div>
 
 ## Adsorption free energies and potentials of mean-force for interactions between amino acids, lipid fragments, and nanoparticles
