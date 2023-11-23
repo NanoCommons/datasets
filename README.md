@@ -29,6 +29,102 @@ only downloaded from the archives but can also be interactively explored via dat
 Additional datasets and databases that provide interactive access to these datasets can
 be reported [here](https://github.com/NanoCommons/datasets/issues).
 
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.8297848"></div>
+
+## Adsorption free energies and potentials of mean-force for interactions between amino acids, lipid fragments, and nanoparticles
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.8297848",
+    "identifier": "10.5281/zenodo.8297848",
+    "name": "Adsorption free energies and potentials of mean-force for interactions between amino acids, lipid fragments, and nanoparticles",
+    "description": "This dataset contains tabulated potentials of mean force (PMFs) and associated adsorption (binding) free energies for interactions of amino acids side chain analogues and lipid fragments (LF) with a range of materials: titanium dioxide, iron oxide, amorphous silica, quartz, and a range of carbon-based materials including amorphous carbon, graphene and carbon nanotubes both in a pristine form and functionalized by certain chemical groups. All data were computed from atomistic molecular dynamics simulations as a part of the SmartNanoTox project 2016-2020. Version 2 of the dataset includes additional materials: zink oxide, zink sulfate in pristine and PMMA-coated forms computed within NanoSolveIt project (2019-2023). The data are intended to be used in coarse-grained models describing interactions of nanomaterials with nanoparticles, for the prediction of the binding affinity of proteins and lipids to nanoparticles, and as biological "fingerprints" of nanomaterials characterizing behavior of the nanomaterials in biological environments.",
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "url": "https://doi.org/10.5281/zenodo.8297848",
+    "keywords": "Nanoparticles, Nanosafety, Metadynamics, Bio-nano interactions",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "NanoSolveIT"
+      }
+    ],
+    "datePublished": "2023-08-29"
+  }
+</script>
+* Date: 2023-08-29
+* License: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+* Project: [NanoSolveIT](http://nanosolveit.eu/)
+* URL: [https://doi.org/10.5281/zenodo.8297848](https://doi.org/10.5281/zenodo.8297848)
+* DOI: 10.5281/zenodo.8297848
+
+
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.8297048"></div>
+
+## Predictive nano-QSAR modeling of the cytotoxicity using epithelial cells obtained from Chinese hamster ovary (CHO-K1 cell line) for hybrid TiO2-based nanomaterials
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.8297048",
+    "identifier": "10.5281/zenodo.8297048",
+    "name": "Predictive nano-QSAR modeling of the cytotoxicity using epithelial cells obtained from Chinese hamster ovary (CHO-K1 cell line) for hybrid TiO2-based nanomaterials",
+    "description": "Results obtained from developed model indicated that the cytotoxicity of hybrid TiO2-based nanomaterials is related to additive electronegativity (χmix) of studied nanomaterials that are indirectly related to the electron generation and ROS formation. ROS production is the most common toxicity cause as discussed in the literature in the case of nanoparticles. The high efficiency of surface modified TiO2-based semiconductors can be attributed to the involvement of TiO2 band gap (Eg) excitation and absence of noble metals at the TiO2 surface. It can be expected that noble metals (i.e. Pd/Pt) may trap holes (h+), at the same time photo-generated electrons can be then transferred from the valence band to the conduction band of TiO2 and to its surface where redox processes were initiated. Thus, observed reduction of the electron–hole pair recombination influences the reactive oxygen species (ROS) formation and the photocatalytic redox process initiation. Since the electronegativity was positively correlated with the cytotoxicity it can be expected that some ions are released from the TiO2 surface easier than others.",
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "url": "https://doi.org/10.5281/zenodo.8297048",
+    "keywords": "QSAR, QSPR, QMRF, nanomaterial, model, OECD, NanoSolveIT",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "NanoSolveIT"
+      }
+    ],
+    "datePublished": "2023-08-29"
+  }
+</script>
+* Date: 2023-08-29
+* License: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+* Project: [NanoSolveIT](http://nanosolveit.eu/)
+* URL: [https://doi.org/10.5281/zenodo.8297048](https://doi.org/10.5281/zenodo.8297048)
+* DOI: 10.5281/zenodo.8297048
+
+
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.8297022"></div>
+
+## Photodegradation of phenol (τOH) by TiO2-based nanophotocatalysts determined in line with the SAPNet methodology
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.8297022",
+    "identifier": "10.5281/zenodo.8297022",
+    "name": "Photodegradation of phenol (τOH) by TiO2-based nanophotocatalysts determined in line with the SAPNet methodology",
+    "description": "The independent variable (predictor) is the intensity of photoluminescence at 398 nm and with use of logistic regression model connects ability of photocatalytic degradation of phenol (endpoint) with this experimentally derived property. The equation goes as follow: 4.32(±2.10) – 0.051(±0.03)(PL398) The developed model is included into the SAPNet workflow (Structure-Activity Prediction Network). In an additional step of SAPNet workflow developed model correlates the structure of a nanomaterial to the selected endpoint- photodegradation of phenol (τOH) by titanium dioxide synthesized in the presence of ionic liquids (IL). Each sample is described by surface area, the amount of nitrogen and carbon atoms, ionic liquid decomposition rate (ΔIL), molar ratio and the type of cations and anions, that influences photoluminescence",
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "url": "https://doi.org/10.5281/zenodo.8297022",
+    "keywords": "QSAR, nanomaterial, model, OECD, NanoSolveIT, QMRF, QSPR",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "NanoSolveIT"
+      }
+    ],
+    "datePublished": "2023-08-29"
+  }
+</script>
+* Date: 2023-08-29
+* License: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+* Project: [NanoSolveIT](http://nanosolveit.eu/)
+* URL: [https://doi.org/10.5281/zenodo.8297022](https://doi.org/10.5281/zenodo.8297022)
+* DOI: 10.5281/zenodo.8297022
+
+
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7990302"></div>
 
 ## Physico-chemical characterization of sterile Fe3O4 nanoparticles by XPS / HAXPES / SEM
