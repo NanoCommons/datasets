@@ -846,6 +846,7 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * Project: [NanoSolveIT](http://nanosolveit.eu/)
 * URL: [https://zenodo.org/record/7941002](https://zenodo.org/record/7941002)
 * DOI: 10.5281/zenodo.7941002
+* ERM identifiers: [ERM00000410](https://nanocommons.github.io/erm-database/substance/erm/ERM00000410), [ERM00000452](https://nanocommons.github.io/erm-database/substance/erm/ERM00000452), [ERM00000431](https://nanocommons.github.io/erm-database/substance/erm/ERM00000431)
 
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7941248"></div>
 
@@ -877,6 +878,7 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * Project: [NanoSolveIT](http://nanosolveit.eu/)
 * URL: [https://zenodo.org/record/7941248](https://zenodo.org/record/7941248)
 * DOI: 10.5281/zenodo.7941248
+* ERM identifiers: [ERM00000405](https://nanocommons.github.io/erm-database/substance/erm/ERM00000405), [ERM00000447](https://nanocommons.github.io/erm-database/substance/erm/ERM00000417), [ERM00000426](https://nanocommons.github.io/erm-database/substance/erm/ERM00000426)
 
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7941462"></div>
 
@@ -908,6 +910,7 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * Project: [NanoSolveIT](http://nanosolveit.eu/)
 * URL: [https://zenodo.org/record/7941462](https://zenodo.org/record/7941462)
 * DOI: 10.5281/zenodo.7941462
+* ERM identifiers: [ERM00000398](https://nanocommons.github.io/erm-database/substance/erm/ERM00000398), [ERM00000440](https://nanocommons.github.io/erm-database/substance/erm/ERM00000440), [ERM00000419](https://nanocommons.github.io/erm-database/substance/erm/ERM00000419)
 
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7961318"></div>
 
@@ -939,6 +942,7 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * Project: [NanoSolveIT](http://nanosolveit.eu/)
 * URL: [https://zenodo.org/record/7961318](https://zenodo.org/record/7961318)
 * DOI: 10.5281/zenodo.7961318
+* ERM identifiers: [ERM00000415](https://nanocommons.github.io/erm-database/substance/erm/ERM00000415), [ERM00000457](https://nanocommons.github.io/erm-database/substance/erm/ERM00000457), [ERM00000436](https://nanocommons.github.io/erm-database/substance/erm/ERM00000436)
 
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7941567"></div>
 
@@ -970,6 +974,7 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * Project: [NanoSolveIT](http://nanosolveit.eu/)
 * URL: [https://zenodo.org/record/7941567](https://zenodo.org/record/7941567)
 * DOI: 10.5281/zenodo.7941567
+* ERM identifiers: [ERM00000413](https://nanocommons.github.io/erm-database/substance/erm/ERM00000413), [ERM00000455](https://nanocommons.github.io/erm-database/substance/erm/ERM00000455), [ERM00000434](https://nanocommons.github.io/erm-database/substance/erm/ERM00000434)
 
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7674574"></div>
 
