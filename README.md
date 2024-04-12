@@ -691,6 +691,7 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * Project: [NanoSolveIT](http://nanosolveit.eu/)
 * URL: [https://zenodo.org/record/7965446](https://zenodo.org/record/7965446)
 * DOI: 10.5281/zenodo.7965446
+* ERM identifiers: [ERM00000401](https://nanocommons.github.io/erm-database/substance/erm/ERM00000401), [ERM00000443](https://nanocommons.github.io/erm-database/substance/erm/ERM00000443), [ERM00000422](https://nanocommons.github.io/erm-database/substance/erm/ERM00000422)
 
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7940162"></div>
 
@@ -722,6 +723,7 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * Project: [NanoSolveIT](http://nanosolveit.eu/)
 * URL: [https://zenodo.org/record/7940162](https://zenodo.org/record/7940162)
 * DOI: 10.5281/zenodo.7940162
+* ERM identifiers: [ERM00000416](https://nanocommons.github.io/erm-database/substance/erm/ERM00000416), [ERM00000458](https://nanocommons.github.io/erm-database/substance/erm/ERM00000458), [ERM00000437](https://nanocommons.github.io/erm-database/substance/erm/ERM00000437)
 
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7940272"></div>
 
@@ -753,6 +755,7 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * Project: [NanoSolveIT](http://nanosolveit.eu/)
 * URL: [https://zenodo.org/record/7940272](https://zenodo.org/record/7940272)
 * DOI: 10.5281/zenodo.7940272
+* ERM identifiers: [ERM00000407](https://nanocommons.github.io/erm-database/substance/erm/ERM00000407), [ERM00000449](https://nanocommons.github.io/erm-database/substance/erm/ERM00000449), [ERM00000428](https://nanocommons.github.io/erm-database/substance/erm/ERM00000428)
 
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7940539"></div>
 
