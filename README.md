@@ -286,7 +286,6 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * URL: [https://doi.org/10.5281/zenodo.8297022](https://doi.org/10.5281/zenodo.8297022)
 * DOI: 10.5281/zenodo.8297022
 
-
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7990302"></div>
 
 ## Physico-chemical characterization of sterile Fe3O4 nanoparticles by XPS / HAXPES / SEM
@@ -317,7 +316,7 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * Project: [NanoSolveIT](http://nanosolveit.eu/)
 * URL: [https://zenodo.org/record/7990302](https://zenodo.org/record/7990302)
 * DOI: 10.5281/zenodo.7990302
-
+* ERM identifiers: [ERM00000583](https://nanocommons.github.io/erm-database/substance/erm/ERM00000583)
 
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7990251"></div>
 
@@ -349,7 +348,7 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * Project: [NanoSolveIT](http://nanosolveit.eu/)
 * URL: [https://zenodo.org/record/7990251](https://zenodo.org/record/7990251)
 * DOI: 10.5281/zenodo.7990251
-
+* ERM identifiers: [ERM00000582](https://nanocommons.github.io/erm-database/substance/erm/ERM00000582)
 
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7990214"></div>
 
@@ -381,6 +380,7 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * Project: [NanoSolveIT](http://nanosolveit.eu/)
 * URL: [https://zenodo.org/record/7990214](https://zenodo.org/record/7990214)
 * DOI: 10.5281/zenodo.7990214
+* ERM identifiers: [ERM00000584](https://nanocommons.github.io/erm-database/substance/erm/ERM00000584)
 
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7990086"></div>
 
