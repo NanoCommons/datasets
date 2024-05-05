@@ -286,6 +286,37 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * URL: [https://doi.org/10.5281/zenodo.8297022](https://doi.org/10.5281/zenodo.8297022)
 * DOI: 10.5281/zenodo.8297022
 
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.8076364"></div>
+
+## RDF dataset produced in the work "Exploring Adverse Outcome Pathways for Nanomaterials with semantic web technologies"
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.8076364",
+    "identifier": "10.5281/zenodo.8076364",
+    "name": "RDF dataset produced in the work "Exploring Adverse Outcome Pathways for Nanomaterials with semantic web technologies"",
+    "description": "Adverse Outcome Pathways (AOPs) have been proposed to facilitate mechanistic understanding of interactions of chemicals/materials with biological systems. Each AOP starts with a molecular initiating event (MIE) and possibly ends with adverse outcome(s) (AOs) via a series of key events (KEs). So far, the interaction of engineered nanomaterials (ENMs) with biomolecules, biomembranes, cells, and biological structures, in general, is not yet fully elucidated. There is also a huge lack of information on which AOPs are ENMs-relevant or -specific, despite numerous published data on toxicological endpoints they trigger, such as oxidative stress and inflammation. We propose to integrate related data and knowledge recently collected. Our approach combines the annotation of nanomaterials and their MIEs with ontology annotation to demonstrate how we can then query AOPs and biological pathway information for these materials. We conclude that a FAIR (Findable, Accessible, Interoperable, Reusable) representation of the ENM-MIE knowledge simplifies integration with other knowledge.",
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "url": "https://doi.org/10.5281/zenodo.8076364",
+    "keywords": "nanosafety, adverse outcome pathways, AOP Wiki, MIE, RDF, knowledge graph, Molecular Initiating Event, FAIR, reusability, ENM",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "NanoSolveIT"
+      }
+    ],
+    "datePublished": "2023-06-23"
+  }
+</script>
+* Date: 2023-06-23
+* License: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+* Project: [NanoSolveIT](http://nanosolveit.eu/), [RiskGONE](https://riskgone.eu/), [SbD4Nano](https://www.sbd4nano.eu/)
+* URL: [https://doi.org/10.5281/zenodo.8076364](https://doi.org/10.5281/zenodo.8076364)
+* DOI: 10.5281/zenodo.8076364
+
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7990302"></div>
 
 ## Physico-chemical characterization of sterile Fe3O4 nanoparticles by XPS / HAXPES / SEM
