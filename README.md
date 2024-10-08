@@ -30,6 +30,37 @@ Additional datasets and databases that provide interactive access to these datas
 be reported [here](https://github.com/NanoCommons/datasets/issues).
 
 
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.13862979"></div>
+
+## Raw and processed data, gating strategy, and photographs of instrumental setup of NAVETTA
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.13862979",
+    "identifier": "10.5281/zenodo.13862979",
+    "name": "Raw and processed data, gating strategy, and photographs of instrumental setup of NAVETTA",
+    "description": "Supplementary Information and Raw Data for Weiss et al., Comp Struct Biotechn J: Nanosci Adv Mat, 2024 1. xls sheet of raw and processed data for all figures 2.-3. gating strategies for flow cytometry experiments 4.-8. photographs of instrumental setups",
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "url": "https://doi.org/10.5281/zenodo.13862979",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "EU NanoSafety Cluster"
+      }
+    ],
+    "datePublished": "2024-09-30"
+  }
+</script>
+* Date: 2024-09-30
+* License: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+* Project: [EU NanoSafety Cluster](https://www.nanosafetycluster.eu/)
+* URL: [https://doi.org/10.5281/zenodo.13862979](https://doi.org/10.5281/zenodo.13862979)
+* DOI: 10.5281/zenodo.13862979
+
+
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.8321185"></div>
 
 ## Occupational exposure dataset for TiO2, carbon black and TiO2 and Ag;X
