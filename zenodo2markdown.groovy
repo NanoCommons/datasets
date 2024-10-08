@@ -1,11 +1,11 @@
-// Copyright (c) 2023  Egon Willighagen <egon.willighagen@gmail.com>
+// Copyright (c) 2023-2024  Egon Willighagen <egon.willighagen@gmail.com>
 //
 // GPL v3
 
-@Grab(group='io.github.egonw.bacting', module='managers-rdf', version='0.4.0')
-@Grab(group='io.github.egonw.bacting', module='managers-ui', version='0.4.0')
-@Grab(group='io.github.egonw.bacting', module='managers-zenodo', version='0.4.0')
-@Grab(group='io.github.egonw.bacting', module='net.bioclipse.managers.jsoup', version='0.4.0')
+@Grab(group='io.github.egonw.bacting', module='managers-rdf', version='1.0.3')
+@Grab(group='io.github.egonw.bacting', module='managers-ui', version='1.0.3')
+@Grab(group='io.github.egonw.bacting', module='managers-zenodo', version='1.0.3')
+@Grab(group='io.github.egonw.bacting', module='net.bioclipse.managers.jsoup', version='1.0.3')
 
 import groovy.xml.XmlParser
 
@@ -23,13 +23,20 @@ orgURL = "https://www.nanosafetycluster.eu/"
 oaiDatacite.GetRecord.record.header.setSpec.each { it ->
   if (it.text() == "user-nanosolveit") {
     org = "NanoSolveIT"
-    orgURL = "http://nanosolveit.eu/"
+    orgURL = "https://nanosolveit.eu/"
+  } else if (it.text() == "user-nsc") {
+    org = "EU NanoSafety Cluster"
+    orgURL = "https://www.nanosafetycluster.eu/"
+  } else {
+    println "<!-- Unknown organisation: ${it.text()} -->"
   }
 }
 oaiDatacite.GetRecord.record.metadata.oai_datacite.payload.resource.fundingReferences.fundingReference.each { it ->
   if (it.funderIdentifier.text() == "00k4n6c32" && it.awardNumber.text() == "814572") {
     org = "NanoSolveIT"
-    orgURL = "http://nanosolveit.eu/"
+    orgURL = "https://nanosolveit.eu/"
+  } else {
+    println "<!-- Unknown funder: ${it.text()} -->"
   }
 }
 
