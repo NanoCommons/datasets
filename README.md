@@ -1206,7 +1206,7 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * URL: [https://zenodo.org/record/6473305](https://zenodo.org/record/6473305)
 * DOI: 10.5281/zenodo.6473305
 
-<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.5743204"></div>
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.13955011"></div>
 
 ## RDF version of the data from Choi, JS. et al. Towards a generalized toxicity prediction model for oxide nanomaterials using integrated data from different sources (2018)
 <script type="application/ld+json">
@@ -1214,12 +1214,12 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
     "@context": "https://schema.org/",
     "@type": "Dataset",
     "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
-    "@id": "https://doi.org/10.5281/zenodo.5743204",
-    "identifier": "10.5281/zenodo.5743204",
+    "@id": "https://doi.org/10.5281/zenodo.13955011",
+    "identifier": "10.5281/zenodo.13955011",
     "name": "RDF version of the data from Choi, JS. et al. Towards a generalized toxicity prediction model for oxide nanomaterials using integrated data from different sources (2018)",
     "description": "This is an RDFied version of the dataset published in Choi, JS., Ha, M.K., Trinh, T.X. et al. Towards a generalized toxicity prediction model for oxide nanomaterials using integrated data from different sources. Sci Rep 8, 6110 (2018). The original dataset publication DOI: https://doi.org/10.1038/s41598-018-24483-z. The Original publication authors: Jang-Sik Choi, My Kieu Ha, Tung Xuan Trinh, Tae Hyun Yoon & Hyung-Gi Byun",
     "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
-    "url": "https://zenodo.org/record/5743204",
+    "url": "https://zenodo.org/record/13955011",
     "keywords": "oxide, nanomaterial, toxicity, prediction",
     "creator": [
       {
@@ -1231,14 +1231,14 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
     "citation": { "@type": "CreativeWork", "@id": "https://doi.org/10.1038/s41598-018-24483-z", "name": "Towards a generalized toxicity prediction model for oxide nanomaterials using integrated data from different sources" }
   }
 </script>
-* [Dataset Overview](overview/5743204.md)
+* [Dataset Overview](overview/13955011.md)
 * Date: 2021-11-30
 * License: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
 * Project: [NanoSolveIT](https://www.nanosolveit.eu/)
-* URL: [https://zenodo.org/record/5743204](https://zenodo.org/record/5743204)
-* DOI: 10.5281/zenodo.5743204
+* URL: [https://zenodo.org/record/13955011](https://zenodo.org/record/13955011)
+* DOI: 10.5281/zenodo.13955011
 
-<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.5743788"></div>
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.13955018"></div>
 
 ## RDF version of the data from Anastasios G. Papadiamantis et al. Predicting Cytotoxicity of Metal Oxide Nanoparticles Using Isalos Analytics Platform (2020)
 <script type="application/ld+json">
@@ -1246,12 +1246,12 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
     "@context": "https://schema.org/",
     "@type": "Dataset",
     "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
-    "@id": "https://doi.org/10.5281/zenodo.5743788",
-    "identifier": "10.5281/zenodo.5743788",
+    "@id": "https://doi.org/10.5281/zenodo.13955018",
+    "identifier": "10.5281/zenodo.13955018",
     "name": "RDF version of the data from Anastasios G. Papadiamantis et al. Predicting Cytotoxicity of Metal Oxide Nanoparticles Using Isalos Analytics Platform (2020)",
     "description": "This is an RDFied version of the dataset published in Papadiamantis, A.G. et al. Predicting Cytotoxicity of Metal Oxide Nanoparticles Using Isalos Analytics Platform. Nanomaterials 2020, 10, 2017. The original dataset publication DOI: https://doi.org/10.3390/nano10102017. The Original publication authors: Papadiamantis, A.G.; Jänes, J.; Voyiatzis, E.; Sikk, L.; Burk, J.; Burk, P.; Tsoumanis, A.; Ha, M.K.; Yoon, T.H.; Valsami-Jones, E.; Lynch, I.; Melagraki, G.; Tämm, K.; Afantitis, A.",
     "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
-    "url": "https://zenodo.org/record/5743788",
+    "url": "https://zenodo.org/record/13955018",
     "keywords": "cytotoxicity, metal oxide, nanoparticle",
     "creator": [
       {
@@ -1263,14 +1263,14 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
     "citation": { "@type": "CreativeWork", "@id": "https://doi.org/10.3390/nano10102017", "name": "Predicting Cytotoxicity of Metal Oxide Nanoparticles Using Isalos Analytics Platform" }
   }
 </script>
-* [Dataset Overview](overview/5743788.md)
+* [Dataset Overview](overview/13955018.md)
 * Date: 2021-11-30
 * License: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
 * Project: [NanoSolveIT](https://www.nanosolveit.eu/)
-* URL: [https://zenodo.org/record/5743788](https://zenodo.org/record/5743788)
-* DOI: 10.5281/zenodo.5743788
+* URL: [https://zenodo.org/record/13955018](https://zenodo.org/record/13955018)
+* DOI: 10.5281/zenodo.13955018
 
-<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.5744003"></div>
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.13955028"></div>
 
 ## RDF version of the data from Saarimaki et al. Manually curated transcriptomics data collection for toxicogenomic assessment of engineered nanomaterials (Version 1.0.0) [Zenodo Dataset] (2020)
 <script type="application/ld+json">
@@ -1278,12 +1278,12 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
     "@context": "https://schema.org/",
     "@type": "Dataset",
     "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
-    "@id": "https://doi.org/10.5281/zenodo.5744003",
-    "identifier": "10.5281/zenodo.5744003",
+    "@id": "https://doi.org/10.5281/zenodo.13955028",
+    "identifier": "10.5281/zenodo.13955028",
     "name": "RDF version of the data from Saarimaki et al. Manually curated transcriptomics data collection for toxicogenomic assessment of engineered nanomaterials (Version 1.0.0) [Zenodo Dataset] (2020)",
     "description": "This is an RDFied version of the dataset published by Saarimaki et al. Manually curated transcriptomics data collection for toxicogenomic assessment of engineered nanomaterials (Version 1.0.0) [Zenodo Dataset] (2020). The original dataset publication DOI: http://doi.org/10.5281/zenodo.4146981. The Original publication authors: Saarimaki, Laura Aliisa, Federico, Antonio, Lynch, Iseult, Papadiamantis, Anastasios G., Tsoumanis, Andreas, Melagraki, Georgia, Afantitis, Antreas, Serra, Angela, & Greco, Dario",
     "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
-    "url": "https://zenodo.org/record/5744003",
+    "url": "https://zenodo.org/record/13955028",
     "creator": [
       {
         "@type": "Organization",
@@ -1293,14 +1293,14 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
     "datePublished": "2021-11-30"
   }
 </script>
-* [Dataset Overview](overview/5744003.md)
+* [Dataset Overview](overview/13955028.md)
 * Date: 2021-11-30
 * License: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
 * Project: [NanoSolveIT](https://www.nanosolveit.eu/)
-* URL: [https://zenodo.org/record/5744003](https://zenodo.org/record/5744003)
-* DOI: 10.5281/zenodo.5744003
+* URL: [https://zenodo.org/record/13955028](https://zenodo.org/record/13955028)
+* DOI: 10.5281/zenodo.13955028
 
-<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.5744082"></div>
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.13955059"></div>
 
 
 ## RDF version of the data from Anastasios G. et al. Computational enrichment of physicochemical data for the development of a zeta-potential read-across predictive model with Isalos Analytics Platform. NanoImpact (2021)
@@ -1309,12 +1309,12 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
     "@context": "https://schema.org/",
     "@type": "Dataset",
     "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
-    "@id": "https://doi.org/10.5281/zenodo.5744082",
-    "identifier": "10.5281/zenodo.5744082",
+    "@id": "https://doi.org/10.5281/zenodo.13955059",
+    "identifier": "10.5281/zenodo.13955059",
     "name": "RDF version of the data from Anastasios G. et al. Computational enrichment of physicochemical data for the development of a zeta-potential read-across predictive model with Isalos Analytics Platform. NanoImpact (2021)",
     "description": "This is an RDFied version of the dataset published by Anastasios G. et al. Computational enrichment of physicochemical data for the development of a zeta-potential read-across predictive model with Isalos Analytics Platform. NanoImpact (2021). The original dataset publication DOI: https://doi.org/10.1016/j.impact.2021.100308 The Original publication authors: Anastasios G. Papadiamantis, Antreas Afantitis, Andreas Tsoumanis, Eugenia Valsami-Jones, Iseult Lynch, Georgia Melagraki",
     "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
-    "url": "https://doi.org/10.5281/zenodo.5744082",
+    "url": "https://doi.org/10.5281/zenodo.13955059",
     "creator": [
       {
         "@type": "Organization",
@@ -1324,14 +1324,14 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
     "datePublished": "2021-11-30"
   }
 </script>
-* [Dataset Overview](overview/5744082.md)
+* [Dataset Overview](overview/13955059.md)
 * Date: 2021-11-30
 * License: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
 * Project: [NanoSolveIT](https://www.nanosolveit.eu/)
-* URL: [https://zenodo.org/record/5744082](https://zenodo.org/record/5744082)
-* DOI: 10.5281/zenodo.5744082
+* URL: [https://zenodo.org/record/13955059](https://zenodo.org/record/13955059)
+* DOI: 10.5281/zenodo.13955059
 
-<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.5744302"></div>
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.13955050"></div>
 
 ## RDF version of the data from Hagar I. Labouta et al. Meta-Analysis of Nanoparticle Cytotoxicity via Data-Mining the Literature. NanoImpact (2019)
 <script type="application/ld+json">
@@ -1339,12 +1339,12 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
     "@context": "https://schema.org/",
     "@type": "Dataset",
     "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
-    "@id": "https://doi.org/10.5281/zenodo.5744302",
-    "identifier": "10.5281/zenodo.5744302",
+    "@id": "https://doi.org/10.5281/zenodo.13955050",
+    "identifier": "10.5281/zenodo.13955050",
     "name": "RDF version of the data from Hagar I. Labouta et al. Meta-Analysis of Nanoparticle Cytotoxicity via Data-Mining the Literature. NanoImpact (2019)",
     "description": "This is an RDFied version of the dataset published by Hagar I. Labouta et al. Meta-Analysis of Nanoparticle Cytotoxicity via Data-Mining the Literature. NanoImpact (2019). The original dataset publication DOI: https://doi.org/10.1021/acsnano.8b07562 The Original publication authors: Hagar I. Labouta, Nasimeh Asgarian, Kristina Rinker, and David T. Cramb",
     "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
-    "url": "https://doi.org/10.5281/zenodo.5744302",
+    "url": "https://doi.org/10.5281/zenodo.13955050",
     "creator": [
       {
         "@type": "Organization",
@@ -1354,12 +1354,12 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
     "datePublished": "2021-11-30"
   }
 </script>
-* [Dataset Overview](overview/5744302.md)
+* [Dataset Overview](overview/13955050.md)
 * Date: 2021-11-30
 * License: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
 * Project: [NanoSolveIT](https://www.nanosolveit.eu/)
-* URL: [https://zenodo.org/record/5744302](https://zenodo.org/record/5744302)
-* DOI: 10.5281/zenodo.5744302
+* URL: [https://zenodo.org/record/13955050](https://zenodo.org/record/13955050)
+* DOI: 10.5281/zenodo.13955050
 
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.4986068"></div>
 
