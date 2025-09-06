@@ -29,6 +29,70 @@ only downloaded from the archives but can also be interactively explored via dat
 Additional datasets and databases that provide interactive access to these datasets can
 be reported [here](https://github.com/NanoCommons/datasets/issues).
 
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.16640543"></div>
+
+## ASINA Dataset: LC2_Pchem_Lung dissolution
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.16640543",
+    "identifier": "10.5281/zenodo.16640543",
+    "name": "ASINA Dataset: LC2_Pchem_Lung dissolution",
+    "description": "The dataset captures the dissolution rate of NMs in simulated lung fluids, specifically in lung lining fluid and phagolysosomal fluid representing NM uptake by alveolar macrophages using in vitro acellular dissolution (ISO/TR 19057; 2017) quantifying ionic concentrations in soluble fractions. The dataset includes NM preparation, dispersion, physicochemical characterization, and dissolution behaviour. DLS measurements at t₀ assess hydrodynamic diameter, with size distribution detailed through intensity peaks (1, 2, 3) and PDI, alongside derived count rate and mean count rate for light scattering intensity, all with SDs. Surface charge is characterized through ζ-potential and corresponding pH. The dataset also documents static dissolution media and exposure conditions. Dissolution behaviour is analysed at several time points by obtaining the soluble fractions via ultrafiltration, and using ICP-MS for measuring initial element concentration and ionic concentration after dissolution to calculate the percentage of dissolved material, providing insights into NM solubility and bioavailability. Notably, this dataset was prepared using a GRACIOUS template, which differs. All metadata including protocols and instrumentation are consolidated within a single tab rather than separated across multiple sheets. Finally, in a small number of cases, missing values for physicochemical parameters were estimated by interpolation based on known exposure doses and dissolution media. These interpolated values are clearly marked in red for transparency",
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "url": "https://doi.org/10.5281/zenodo.16640543",
+    "keywords": "ERM00000550, ERM00000553, ERM00000554",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "ASINA"
+      }
+    ],
+    "datePublished": "2025-07-31"
+  }
+</script>
+* Date: 2025-07-31
+* License: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+* Project: [ASINA](https://www.asina-project.eu/)
+* URL: [https://doi.org/10.5281/zenodo.16640543](https://doi.org/10.5281/zenodo.16640543)
+* DOI: 10.5281/zenodo.16640543
+* ERM identifiers: [ERM00000550](https://nanocommons.github.io/erm-database/substance/erm/ERM00000550) [ERM00000553](https://nanocommons.github.io/erm-database/substance/erm/ERM00000553) [ERM00000554](https://nanocommons.github.io/erm-database/substance/erm/ERM00000554)
+
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.16642517"></div>
+
+## ASINA Dataset: LC2_σ_Ηuman lung_real dose
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.16642517",
+    "identifier": "10.5281/zenodo.16642517",
+    "name": "ASINA Dataset: LC2_σ_Ηuman lung_real dose",
+    "description": "From the exposure campaigns (10.5281/zenodo.16641460) the alveolar retained doses (μg/cm²) from Multiple-path particle dosimetry (MPPD) model (10.5281/zenodo.16642495) were then translated into real occupational exposure doses and tested in Tier 2 advanced in vitro models, using A549 cells co-cultured with alveolar macrophages derived from THP-1 monocytes (Motta et al. 2024). σ_Ηuman lung_real dose.xlsx dataset includes physicochemical properties, and biological responses of NM (not NEP_ID), supporting hazard evaluation. Biological responses assess NM effects on the cell lines under exposure conditions (ng/cm², h). Cytotoxicity is measured via lactate dehydrogenase (LDH) release (%), while inflammatory responses are evaluated through fold changes in pro-inflammatory cytokines, including Interleukins 8, 6 and 1β (IL-8, IL-6, IL-1β).",
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "url": "https://doi.org/10.5281/zenodo.16642517",
+    "keywords": "ERM00000550, ERM00000560",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "ASINA"
+      }
+    ],
+    "datePublished": "2025-07-31"
+  }
+</script>
+* Date: 2025-07-31
+* License: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+* Project: [ASINA](https://www.asina-project.eu/)
+* URL: [https://doi.org/10.5281/zenodo.16642517](https://doi.org/10.5281/zenodo.16642517)
+* DOI: 10.5281/zenodo.16642517
+* ERM identifiers: [ERM00000550](https://nanocommons.github.io/erm-database/substance/erm/ERM00000550) [ERM00000560](https://nanocommons.github.io/erm-database/substance/erm/ERM00000560)
+
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.16643573"></div>
 
 ## ASINA Dataset: LC3_ε_Bioaccumulation
