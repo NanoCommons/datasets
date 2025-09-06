@@ -29,6 +29,38 @@ only downloaded from the archives but can also be interactively explored via dat
 Additional datasets and databases that provide interactive access to these datasets can
 be reported [here](https://github.com/NanoCommons/datasets/issues).
 
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.16643573"></div>
+
+## ASINA Dataset: LC3_ε_Bioaccumulation
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.16643573",
+    "identifier": "10.5281/zenodo.16643573",
+    "name": "ASINA Dataset: LC3_ε_Bioaccumulation",
+    "description": "The environmental ε_Bioaccumulation.xlsx dataset provides bioaccumulation Ti uptake in biological organisms, following OECD 317 protocol. Enchytraeus crypticus were exposed to TiO₂ in soil for 14 days to monitor uptake rates (by mass), followed by a 14-day transfer to clean soil to assess elimination. The nominal exposure concentration (mg/kg) represents the intended TiO2 NM dose administered in the soil. The dataset captures sampling phase, and time points post-exposure, supporting toxicokinetic analysis. The data differentiates between pooled vs. individual samples by indicated the number of organisms included in the sample, and includes biomass measurements (wet and dry weight at each sampling time point).",
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "url": "https://doi.org/10.5281/zenodo.16643573",
+    "keywords": "ERM00000550, ERM00000695",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "ASINA"
+      }
+    ],
+    "datePublished": "2025-07-31"
+  }
+</script>
+* Date: 2025-07-31
+* License: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+* Project: [ASINA](https://www.asina-project.eu/)
+* URL: [https://doi.org/10.5281/zenodo.16643573](https://doi.org/10.5281/zenodo.16643573)
+* DOI: 10.5281/zenodo.16643573
+* ERM identifiers: [ERM00000550](https://nanocommons.github.io/erm-database/substance/erm/ERM00000550) [ERM00000695](https://nanocommons.github.io/erm-database/substance/erm/ERM00000695)
+
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.17052010"></div>
 
 ## ASINA Dataset: LC2_σ_Exposure_campaigns
@@ -44,6 +76,7 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
     "description": "ERM is added to the original dataset. Human safety - exposure dataset captures occupational exposure data from Near-Field (NF), Far-Field (FF), and inside spray coating machinery monitoring campaigns, providing insights into aerosol generation during NEP coating process. Measurements were obtained using Scanning Mobility Particle Sizer (SMPS) and Optical Particle Counter (OPC) to assess processing conditions and aerosol behaviour in industrial settings. Key aerosol-related parameters include particle number concentration in NF as an indicator of worker exposure, with SDs. Background conditions were assessed across various operational states, including when the spray process was inactive, ventilation running, and oven in operation. Particle size information of the process emissions in NF provides insight into the dynamic behaviour of aerosol particles indoors and in the human lungs. NM mass concentrations were measured in NF, inside the spray coating, and FF using Teflon filters, with Ti concentrations analysed by ICP-MS. Values were normalized by air volume (m³) to calculate NM mass concentrations (µg/m³), with SDs reflecting variability. The metadata folder contains extensive raw data, structured across three monitoring campaigns, with both on-line and off-line measurements in time-series formats. It includes NANEOS and OPC data, along with detailed records of additional parameters, offering a comprehensive source for exposure analysis. A detailed descriptor breakdown in Table S9. It is important to note that some metadata files contain additional data from monitoring campaigns; however, the necessary information to include the key descriptors that define each experiment was not available. As a result, these data could not be integrated into the Descriptors tab, where all results were systematically merged. This limitation affects the ability to directly link certain metadata records to the structured dataset but does not compromise the availability of raw exposure data.",
     "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
     "url": "https://doi.org/10.5281/zenodo.17052010",
+    "keywords": "ERM00000560",
     "creator": [
       {
         "@type": "Organization",
