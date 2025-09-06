@@ -29,6 +29,167 @@ only downloaded from the archives but can also be interactively explored via dat
 Additional datasets and databases that provide interactive access to these datasets can
 be reported [here](https://github.com/NanoCommons/datasets/issues).
 
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.16639865"></div>
+
+## ASINA Dataset: LC1_σ_lung
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.16639865",
+    "identifier": "10.5281/zenodo.16639865",
+    "name": "ASINA Dataset: LC1_σ_lung",
+    "description": "The dataset captures media-dependent physicochemical properties and biological responses in in vitro lung models. Hydrodynamic diameter and PDI are measured via DLS at t₀ (immediately after preparation) and t₂₄ (24 hours later), with SD values reported. Exposure conditions include concentration (expressed as µg/mL), and time of exposure (h). Biological features include cell line, cell type, cell origin, and well format (e.g., 96-well plate). Cell viability is evaluated using Alamar Blue assays along with inflammation-ROS quantification, and genotoxicity (γH2AX).",
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "url": "https://doi.org/10.5281/zenodo.16639865",
+    "keywords": "ERM00000550, ERM00000560",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "ASINA"
+      }
+    ],
+    "datePublished": "2025-07-31"
+  }
+</script>
+* Date: 2025-07-31
+* License: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+* Project: [ASINA](https://www.asina-project.eu/)
+* URL: [https://doi.org/10.5281/zenodo.16639865](https://doi.org/10.5281/zenodo.16639865)
+* DOI: 10.5281/zenodo.16639865
+* ERM identifiers: [ERM00000550](https://nanocommons.github.io/erm-database/substance/erm/ERM00000550) [ERM00000560](https://nanocommons.github.io/erm-database/substance/erm/ERM00000560)
+
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.16639595"></div>
+
+## ASINA Dataset: LC1_σ_dermal
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.16639595",
+    "identifier": "10.5281/zenodo.16639595",
+    "name": "ASINA Dataset: LC1_σ_dermal",
+    "description": "The dataset captures exposure conditions and cellular responses, of NM-induced cytotoxicity (WST-1), ROS quantification (DHR123, CellROX) and genotoxicity (53BP1, micronucleus chromosomal damage in binucleated cells using High-Content Analysis). It includes NM solution treatment (e.g., sonication), culture medium (e.g., DMEM), exposure concentration, and duration (h)",
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "url": "https://doi.org/10.5281/zenodo.16639595",
+    "keywords": "ERM00000550, ERM00000560",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "ASINA"
+      }
+    ],
+    "datePublished": "2025-07-31"
+  }
+</script>
+* Date: 2025-07-31
+* License: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+* Project: [ASINA](https://www.asina-project.eu/)
+* URL: [https://doi.org/10.5281/zenodo.16639595](https://doi.org/10.5281/zenodo.16639595)
+* DOI: 10.5281/zenodo.16639595
+* ERM identifiers: [ERM00000550](https://nanocommons.github.io/erm-database/substance/erm/ERM00000550) [ERM00000560](https://nanocommons.github.io/erm-database/substance/erm/ERM00000560)
+
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.16638986"></div>
+
+## ASINA Dataset: LC1_pchem (UNILI)
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.16638986",
+    "identifier": "10.5281/zenodo.16638986",
+    "name": "ASINA Dataset: LC1_pchem (UNILI)",
+    "description": "The dataset provides morphological, crystallographic, and surface chemistry data. Morphology is assessed via Transmission Electron Microscopy (TEM), with particle size distribution measured at multiple magnifications (50kX, 100kX, 400kX), including average sizes and SDs. Specific surface area and band gaps are also reported. Crystallographic properties are characterized using X-ray Diffraction (XRD) capturing crystallinity percentage, amorphous phase content, average crystallite size, and specific crystal structures. Surface chemistry is analyzed via X-ray Photoelectron Spectroscopy (XPS), providing elemental composition, binding energies for electron transitions, and % atomic concentration.",
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "url": "https://doi.org/10.5281/zenodo.16638986",
+    "keywords": "ERM00000550, ERM00000553, ERM00000560, ERM00000695, ERM00000561, ERM00000554",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "ASINA"
+      }
+    ],
+    "datePublished": "2025-07-31"
+  }
+</script>
+* Date: 2025-07-31
+* License: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+* Project: [ASINA](https://www.asina-project.eu/)
+* URL: [https://doi.org/10.5281/zenodo.16638986](https://doi.org/10.5281/zenodo.16638986)
+* DOI: 10.5281/zenodo.16638986
+* ERM identifiers: [ERM00000550](https://nanocommons.github.io/erm-database/substance/erm/ERM00000550) [ERM00000553](https://nanocommons.github.io/erm-database/substance/erm/ERM00000553) [ERM00000560](https://nanocommons.github.io/erm-database/substance/erm/ERM00000560) [ERM00000695](https://nanocommons.github.io/erm-database/substance/erm/ERM00000695) [ERM00000561](https://nanocommons.github.io/erm-database/substance/erm/ERM00000561) [ERM00000554](https://nanocommons.github.io/erm-database/substance/erm/ERM00000695) [ERM00000554]
+
+
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.16637081"></div>
+
+## ASINA Dataset: LC1_pchem (ISSMC)
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.16637081",
+    "identifier": "10.5281/zenodo.16637081",
+    "name": "ASINA Dataset: LC1_pchem (ISSMC)",
+    "description": "The dataset focuses on hydrodynamics and surface charge properties. It includes the initial stock concentration (weight-based) and the diluted working concentration. Hydrodynamic diameter and PDI are measured using DLS in suspension, with SDs reported. Surface charge properties are assessed through ζ-potential measurements in water, recorded alongside SDs and pH values, using ELS. The isoelectric point is reported, indicating the pH at which NMs exhibit zero net surface charge. This dataset is complete, with no missing values.",
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "url": "https://doi.org/10.5281/zenodo.16637081",
+    "keywords": "ERM00000560, ERM00000695",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "ASINA"
+      }
+    ],
+    "datePublished": "2025-07-31"
+  }
+</script>
+* Date: 2025-07-31
+* License: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+* Project: [ASINA](https://www.asina-project.eu/)
+* URL: [https://doi.org/10.5281/zenodo.16637081](https://doi.org/10.5281/zenodo.16637081)
+* DOI: 10.5281/zenodo.16637081
+* ERM identifiers: [ERM00000560](https://nanocommons.github.io/erm-database/substance/erm/ERM00000560) [ERM00000695](https://nanocommons.github.io/erm-database/substance/erm/ERM00000695)
+
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.16639912"></div>
+
+## ASINA Dataset: LC1_σ_intestine
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.16639912",
+    "identifier": "10.5281/zenodo.16639912",
+    "name": "ASINA Dataset: LC1_σ_intestine",
+    "description": "The dataset provides toxicity testing in intestinal cell models and includes exposure conditions, and cellular responses such as cell viability (WST-1), ROS quantification (DHR123), and genotoxicity (53BP1).",
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "url": "https://doi.org/10.5281/zenodo.16639912",
+    "keywords": "ERM00000560",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "ASINA"
+      }
+    ],
+    "datePublished": "2025-07-31"
+  }
+</script>
+* Date: 2025-07-31
+* License: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+* Project: [ASINA](https://www.asina-project.eu/)
+* URL: [https://doi.org/10.5281/zenodo.16639912](https://doi.org/10.5281/zenodo.16639912)
+* DOI: 10.5281/zenodo.16639912
+* ERM identifiers: [ERM00000560](https://nanocommons.github.io/erm-database/substance/erm/ERM00000560)
+
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.16640035"></div>
 
 ## ASINA Dataset: LC1_σ_acellular
