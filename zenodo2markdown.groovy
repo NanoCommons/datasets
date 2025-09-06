@@ -15,6 +15,8 @@ jsoup = new net.bioclipse.managers.JSoupManager(".");
 
 xml = zenodo.getOAIPMHData(args[0])
 
+// println xml
+
 def oaiDatacite = new XmlParser().parseText(xml)
 
 org = "Undefined"
@@ -31,6 +33,16 @@ oaiDatacite.GetRecord.record.header.setSpec.each { it ->
     println "<!-- Unknown organisation: ${it.text()} -->"
   }
 }
+if (org = "Undefined") {
+  oaiDatacite.GetRecord.record.metadata.oai_datacite.payload.resource.relatedIdentifiers.relatedIdentifier.each { it ->
+    if (it."@relationType" == "IsPartOf" &&
+        it.text() == "https://zenodo.org/communities/asina/") {
+      org = "ASINA"
+      orgURL = "https://www.asina-project.eu/"
+    }
+  }
+}
+
 oaiDatacite.GetRecord.record.metadata.oai_datacite.payload.resource.fundingReferences.fundingReference.each { it ->
   if (it.funderIdentifier.text() == "00k4n6c32" && it.awardNumber.text() == "814572") {
     org = "NanoSolveIT"
