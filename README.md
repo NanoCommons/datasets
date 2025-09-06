@@ -29,6 +29,38 @@ only downloaded from the archives but can also be interactively explored via dat
 Additional datasets and databases that provide interactive access to these datasets can
 be reported [here](https://github.com/NanoCommons/datasets/issues).
 
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.16640035"></div>
+
+## ASINA Dataset: LC1_σ_acellular
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.16640035",
+    "identifier": "10.5281/zenodo.16640035",
+    "name": "ASINA Dataset: LC1_σ_acellular",
+    "description": "The σ_Acellular.xlsx dataset captures experimental conditions for assessing NM-induced oxidative stress. The reactive molecule (e.g., glutathione (GSH), reactive nitrogen/oxygen species (RNO)) and media type define the reaction environment. The physicochemical properties include hydrodynamic diameter (DLS) and ζ-potential (ELS), with pH recorded. The properties reported in this dataset are not duplicates of those provided in the dedicated physicochemical files. Instead, they represent separate measurements conducted by a different partner, under different conditions, and often in exposure-relevant media. As a result, they should be interpreted as complementary and not redundant. Exposure conditions cover concentration, duration, and intermediate preparation volumes. The dataset records control absorbance, peak absorbance wavelength, and unreacted model molecule concentration. The percentage of the model molecule and GSH/RNO consumed provides a measure of NM-induced redox activity.",
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "url": "https://doi.org/10.5281/zenodo.16640035",
+    "keywords": "ERM00000560, ERM00000695, ERM00000561",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "ASINA"
+      }
+    ],
+    "datePublished": "2025-07-31"
+  }
+</script>
+* Date: 2025-07-31
+* License: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+* Project: [ASINA](https://www.asina-project.eu/)
+* URL: [https://doi.org/10.5281/zenodo.16640035](https://doi.org/10.5281/zenodo.16640035)
+* DOI: 10.5281/zenodo.16640035
+* ERM identifiers: [ERM00000560](https://nanocommons.github.io/erm-database/substance/erm/ERM00000560) [ERM00000695](https://nanocommons.github.io/erm-database/substance/erm/ERM00000695) [ERM00000561](https://nanocommons.github.io/erm-database/substance/erm/ERM00000561)
+
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.16640543"></div>
 
 ## ASINA Dataset: LC2_Pchem_Lung dissolution
