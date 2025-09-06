@@ -1,11 +1,11 @@
-// Copyright (c) 2023-2024  Egon Willighagen <egon.willighagen@gmail.com>
+// Copyright (c) 2023-2025  Egon Willighagen <egon.willighagen@gmail.com>
 //
 // GPL v3
 
-@Grab(group='io.github.egonw.bacting', module='managers-rdf', version='1.0.3')
-@Grab(group='io.github.egonw.bacting', module='managers-ui', version='1.0.3')
-@Grab(group='io.github.egonw.bacting', module='managers-zenodo', version='1.0.3')
-@Grab(group='io.github.egonw.bacting', module='net.bioclipse.managers.jsoup', version='1.0.3')
+@Grab(group='io.github.egonw.bacting', module='managers-rdf', version='1.0.7')
+@Grab(group='io.github.egonw.bacting', module='managers-ui', version='1.0.7')
+@Grab(group='io.github.egonw.bacting', module='managers-zenodo', version='1.0.7')
+@Grab(group='io.github.egonw.bacting', module='net.bioclipse.managers.jsoup', version='1.0.7')
 
 import groovy.xml.XmlParser
 
