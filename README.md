@@ -123,7 +123,7 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * Project: [ASINA](https://www.asina-project.eu/)
 * URL: [https://doi.org/10.5281/zenodo.16638986](https://doi.org/10.5281/zenodo.16638986)
 * DOI: 10.5281/zenodo.16638986
-* ERM identifiers: [ERM00000550](https://nanocommons.github.io/erm-database/substance/erm/ERM00000550) [ERM00000553](https://nanocommons.github.io/erm-database/substance/erm/ERM00000553) [ERM00000560](https://nanocommons.github.io/erm-database/substance/erm/ERM00000560) [ERM00000695](https://nanocommons.github.io/erm-database/substance/erm/ERM00000695) [ERM00000561](https://nanocommons.github.io/erm-database/substance/erm/ERM00000561) [ERM00000554](https://nanocommons.github.io/erm-database/substance/erm/ERM00000695) [ERM00000554]
+* ERM identifiers: [ERM00000550](https://nanocommons.github.io/erm-database/substance/erm/ERM00000550) [ERM00000553](https://nanocommons.github.io/erm-database/substance/erm/ERM00000553) [ERM00000560](https://nanocommons.github.io/erm-database/substance/erm/ERM00000560) [ERM00000695](https://nanocommons.github.io/erm-database/substance/erm/ERM00000695) [ERM00000561](https://nanocommons.github.io/erm-database/substance/erm/ERM00000561) [ERM00000554](https://nanocommons.github.io/erm-database/substance/erm/ERM00000554)
 
 
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.16637081"></div>
