@@ -1372,6 +1372,37 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * DOI: 10.5281/zenodo.7941567
 * ERM identifiers: [ERM00000413](https://nanocommons.github.io/erm-database/substance/erm/ERM00000413), [ERM00000455](https://nanocommons.github.io/erm-database/substance/erm/ERM00000455), [ERM00000434](https://nanocommons.github.io/erm-database/substance/erm/ERM00000434)
 
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7777590"></div>
+
+## GRACIOUS - eNanoMapper database
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.7777590",
+    "identifier": "10.5281/zenodo.7777590",
+    "name": "GRACIOUS - eNanoMapper database",
+    "description": "The GRACIOUS project developed a highly innovative science-based Framework to enable practical application of grouping, leading to read-across and classification of nanomaterials and nanoforms. Since 1 April 2023 the data gathered in the project are publicly available via the GRACIOUS - eNanoMapper database. A standalone Docker instance is also available.",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+    "url": "https://doi.org/10.5281/zenodo.7777590",
+    "keywords": "nanomaterials, eNanoMapper",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "GRACIOUS"
+      }
+    ],
+    "datePublished": "2023-04-01"
+  }
+</script>
+* Date: 2023-04-01
+* License: [Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+* Project: [GRACIOUS](https://www.h2020gracious.eu/)
+* URL: [https://doi.org/10.5281/zenodo.7777590](https://doi.org/10.5281/zenodo.7777590)
+* DOI: 10.5281/zenodo.7777590
+
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7674574"></div>
 
 ## Data & code repository for the article "An ancestral molecular response to nanomaterial particulates"
@@ -1495,6 +1526,37 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * Project: [NanoSolveIT](http://nanosolveit.eu/)
 * URL: [https://doi.org/10.5281/zenodo.7980953](https://doi.org/10.5281/zenodo.7980953)
 * DOI: 10.5281/zenodo.7980953
+
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7193516"></div>
+
+## caLIBRAte - eNanoMapper database
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.7193516",
+    "identifier": "10.5281/zenodo.7193516",
+    "name": "caLIBRAte - eNanoMapper database",
+    "description": "The objective of the caLIBRAte project was to establish a state-of-the-art versatile Risk Governance framework for assessment and management of human and environmental risks of MN and MN-enabled products. Since 1 October 2022 the data gathered in the project are publicly available via the caLIBRAte - eNanoMapper database. A standalone Docker instance is also available. The caLIBRAte database is subject to updates during completion of supplemental analysis after publication as an open database entity.",
+    "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+    "url": "https://doi.org/10.5281/zenodo.7193516",
+    "keywords": "nanomaterials, eNanoMapper",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "caLIBRAte"
+      }
+    ],
+    "datePublished": "2022-10-01"
+  }
+</script>
+* Date: 2022-10-01
+* License: [Creative Commons Attribution Non Commercial Share Alike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+* Project: [caLIBRAte](http://www.nanocalibrate.eu/)
+* URL: [https://doi.org/10.5281/zenodo.7193516](https://doi.org/10.5281/zenodo.7193516)
+* DOI: 10.5281/zenodo.7193516
 
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.6473305"></div>
 
@@ -1779,6 +1841,36 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * Project: [NanoCommons](https://www.nanocommons.eu/)
 * URL: [https://zenodo.org/record/4609840](https://zenodo.org/record/4609840)
 * DOI: 10.5281/zenodo.4609840
+
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.4713745"></div>
+
+## NanoReg2 - eNanoMapper database
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.4713745",
+    "identifier": "10.5281/zenodo.4713745",
+    "name": "NanoReg2 - eNanoMapper database",
+    "description": "H2020 NanoReg2 project data SQL dump for AMBIT chemical substance data management software. See AMBIT Docker for import instructions. Available online in the NanoReg2 - eNanoMapper database. A user guide is available.",
+    "license": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "url": "https://doi.org/10.5281/zenodo.4713745",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "NanoREG II"
+      }
+    ],
+    "datePublished": "2021-04-23"
+  }
+</script>
+* Date: 2021-04-23
+* License: [Creative Commons Attribution Non Commercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
+* Project: [NanoREG II](https://www.nanoreg2.eu/)
+* URL: [https://doi.org/10.5281/zenodo.4713745](https://doi.org/10.5281/zenodo.4713745)
+* DOI: 10.5281/zenodo.4713745
 
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.4421969"></div>
 
