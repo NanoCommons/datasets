@@ -1808,7 +1808,7 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 </script>
 * Date: 2021-04-23
 * License: [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
-* Project: NanoReg2
+* Project: [NanoREG II](https://www.nanoreg2.eu/)
 * URL: [https://zenodo.org/record/4713745](https://zenodo.org/record/4713745)
 * DOI: 10.5281/zenodo.4713745
 * Data Download: [nanoreg2.sql.xz](https://zenodo.org/record/4713745/files/nanoreg2.sql.xz?download=1)
@@ -1841,36 +1841,6 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * Project: [NanoCommons](https://www.nanocommons.eu/)
 * URL: [https://zenodo.org/record/4609840](https://zenodo.org/record/4609840)
 * DOI: 10.5281/zenodo.4609840
-
-<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.4713745"></div>
-
-## NanoReg2 - eNanoMapper database
-
-<script type="application/ld+json">
-  {
-    "@context": "https://schema.org/",
-    "@type": "Dataset",
-    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
-    "@id": "https://doi.org/10.5281/zenodo.4713745",
-    "identifier": "10.5281/zenodo.4713745",
-    "name": "NanoReg2 - eNanoMapper database",
-    "description": "H2020 NanoReg2 project data SQL dump for AMBIT chemical substance data management software. See AMBIT Docker for import instructions. Available online in the NanoReg2 - eNanoMapper database. A user guide is available.",
-    "license": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
-    "url": "https://doi.org/10.5281/zenodo.4713745",
-    "creator": [
-      {
-        "@type": "Organization",
-        "name": "NanoREG II"
-      }
-    ],
-    "datePublished": "2021-04-23"
-  }
-</script>
-* Date: 2021-04-23
-* License: [Creative Commons Attribution Non Commercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
-* Project: [NanoREG II](https://www.nanoreg2.eu/)
-* URL: [https://doi.org/10.5281/zenodo.4713745](https://doi.org/10.5281/zenodo.4713745)
-* DOI: 10.5281/zenodo.4713745
 
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.4421969"></div>
 
