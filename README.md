@@ -1543,7 +1543,7 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
     "description": "The objective of the caLIBRAte project was to establish a state-of-the-art versatile Risk Governance framework for assessment and management of human and environmental risks of MN and MN-enabled products. Since 1 October 2022 the data gathered in the project are publicly available via the caLIBRAte - eNanoMapper database. A standalone Docker instance is also available. The caLIBRAte database is subject to updates during completion of supplemental analysis after publication as an open database entity.",
     "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
     "url": "https://doi.org/10.5281/zenodo.7193516",
-    "keywords": "nanomaterials, eNanoMapper",
+    "keywords": "nanomaterials, eNanoMapper, ERM00000074, ERM00000075, ERM00000076, ERM00000077, ERM00000078, ERM00000079, ERM00000080, ERM00000081, ERM00000082",
     "creator": [
       {
         "@type": "Organization",
@@ -1559,6 +1559,7 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * URL: [https://doi.org/10.5281/zenodo.7193516](https://doi.org/10.5281/zenodo.7193516)
 * DOI: 10.5281/zenodo.7193516
 * Interactive data access: [eNanoMapper](https://enanomapper.adma.ai/projects/calibrate/)
+* ERM identifiers: [ERM00000074](https://nanocommons.github.io/erm-database/substance/erm/ERM00000074) [ERM00000075](https://nanocommons.github.io/erm-database/substance/erm/ERM00000075) [ERM00000076](https://nanocommons.github.io/erm-database/substance/erm/ERM00000076) [ERM00000077](https://nanocommons.github.io/erm-database/substance/erm/ERM00000077) [ERM00000078](https://nanocommons.github.io/erm-database/substance/erm/ERM00000078) [ERM00000079](https://nanocommons.github.io/erm-database/substance/erm/ERM00000079) [ERM00000080](https://nanocommons.github.io/erm-database/substance/erm/ERM00000080) [ERM00000081](https://nanocommons.github.io/erm-database/substance/erm/ERM00000081) [ERM00000082](https://nanocommons.github.io/erm-database/substance/erm/ERM00000082)
 
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.6473305"></div>
 
