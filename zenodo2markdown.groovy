@@ -15,7 +15,7 @@ jsoup = new net.bioclipse.managers.JSoupManager(".");
 
 xml = zenodo.getOAIPMHData(args[0])
 
-// println xml
+println xml
 
 def oaiDatacite = new XmlParser().parseText(xml)
 
@@ -47,6 +47,17 @@ oaiDatacite.GetRecord.record.metadata.oai_datacite.payload.resource.fundingRefer
   if (it.funderIdentifier.text() == "00k4n6c32" && it.awardNumber.text() == "814572") {
     org = "NanoSolveIT"
     orgURL = "https://nanosolveit.eu/"
+  } else if (it.funderIdentifier.text() == "10.13039/501100000780") {
+    if (it.awardNumber.text() == "686239") {
+      org = "caLIBRAte"
+      orgURL = "http://www.nanocalibrate.eu/"
+    } else if (it.awardNumber.text() == "646221") {
+      org = "NanoREG II"
+      orgURL = "https://www.nanoreg2.eu/"
+    } else if (it.awardNumber.text() == "760840") {
+      org = "GRACIOUS"
+      orgURL = "https://www.h2020gracious.eu/"
+    }
   } else {
     println "<!-- Unknown funder: ${it.text()} -->"
   }
