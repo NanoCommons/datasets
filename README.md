@@ -1402,6 +1402,7 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * Project: [GRACIOUS](https://www.h2020gracious.eu/)
 * URL: [https://doi.org/10.5281/zenodo.7777590](https://doi.org/10.5281/zenodo.7777590)
 * DOI: 10.5281/zenodo.7777590
+* Interactive data access: [eNanoMapper](https://enanomapper.adma.ai/projects/gracious/)
 
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.7674574"></div>
 
@@ -1557,6 +1558,7 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 * Project: [caLIBRAte](http://www.nanocalibrate.eu/)
 * URL: [https://doi.org/10.5281/zenodo.7193516](https://doi.org/10.5281/zenodo.7193516)
 * DOI: 10.5281/zenodo.7193516
+* Interactive data access: [eNanoMapper](https://enanomapper.adma.ai/projects/calibrate/)
 
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.6473305"></div>
 
