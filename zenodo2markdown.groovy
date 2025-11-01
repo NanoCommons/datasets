@@ -26,14 +26,21 @@ oaiDatacite.GetRecord.record.header.setSpec.each { it ->
   if (it.text() == "user-nanosolveit") {
     org = "NanoSolveIT"
     orgURL = "https://nanosolveit.eu/"
+  } else if (it.text() == "user-ssbd4chem") {
+    org = "SSbD4CheM"
+    orgURL = "https://www.ssbd4chem.eu/"
+  } else if (it.text() == "openaire_data") {
+    // ignore: general category
   } else if (it.text() == "user-nsc") {
-    org = "EU NanoSafety Cluster"
-    orgURL = "https://www.nanosafetycluster.eu/"
+    if (org == "Undefined") {
+      org = "EU NanoSafety Cluster"
+      orgURL = "https://www.nanosafetycluster.eu/"
+    }
   } else {
     println "<!-- Unknown organisation: ${it.text()} -->"
   }
 }
-if (org = "Undefined") {
+if (org == "Undefined") {
   oaiDatacite.GetRecord.record.metadata.oai_datacite.payload.resource.relatedIdentifiers.relatedIdentifier.each { it ->
     if (it."@relationType" == "IsPartOf" &&
         it.text() == "https://zenodo.org/communities/asina/") {
@@ -57,12 +64,14 @@ oaiDatacite.GetRecord.record.metadata.oai_datacite.payload.resource.fundingRefer
     } else if (it.awardNumber.text() == "760840") {
       org = "GRACIOUS"
       orgURL = "https://www.h2020gracious.eu/"
+    } else if (it.awardNumber.text() == "101138475") {
+      org = "SSbD4CheM"
+      orgURL = "https://www.ssbd4chem.eu/"
     }
   } else {
     println "<!-- Unknown funder: ${it.text()} -->"
   }
 }
-
 
 
 record = oaiDatacite.GetRecord.record.metadata.oai_datacite.payload.resource
