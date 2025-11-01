@@ -29,6 +29,36 @@ only downloaded from the archives but can also be interactively explored via dat
 Additional datasets and databases that provide interactive access to these datasets can
 be reported [here](https://github.com/NanoCommons/datasets/issues).
 
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.16878421"></div>
+
+## Simulation Data of Fe₃O₄ (Magnetite) and SiO₂ (α-Quartz) Nanoparticles in Water Generated with HydroNanoConstruct
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": { "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
+    "@id": "https://doi.org/10.5281/zenodo.16878421",
+    "identifier": "10.5281/zenodo.16878421",
+    "name": "Simulation Data of Fe₃O₄ (Magnetite) and SiO₂ (α-Quartz) Nanoparticles in Water Generated with HydroNanoConstruct",
+    "description": "This dataset contains XYZ and LAMMPS datafiles for a series of Fe₃O₄ (magnetite) and SiO₂ (α-quartz) nanoparticles dispersed in water. The systems were generated using HydroNanoConstruct, a tool designed for the digital construction of hydrated metal and metalloid oxide nanoparticles suitable for molecular simulations. The dataset includes XYZ and LAMMPS datafiles for Fe₃O₄ and SiO₂ nanoparticles of varying sizes and shapes, including spherical and ellipsoidal geometries.",
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "url": "https://doi.org/10.5281/zenodo.16878421",
+    "creator": [
+      {
+        "@type": "Organization",
+        "name": "SSbD4CheM"
+      }
+    ],
+    "datePublished": "2025-08-14"
+  }
+</script>
+* Date: 2025-08-14
+* License: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+* Project: [SSbD4CheM](https://www.ssbd4chem.eu/)
+* URL: [https://doi.org/10.5281/zenodo.16878421](https://doi.org/10.5281/zenodo.16878421)
+* DOI: 10.5281/zenodo.16878421
+
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.16639865"></div>
 
 ## ASINA Dataset: LC1_σ_lung
